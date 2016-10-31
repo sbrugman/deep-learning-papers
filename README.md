@@ -2,6 +2,7 @@
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
 ## Object Detection
+* Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](http://delivery.acm.org/10.1145/2970000/2967205/p172-wu.pdf)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
 * SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
