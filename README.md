@@ -5,6 +5,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](http://delivery.acm.org/10.1145/2970000/2967205/p172-wu.pdf)
 * T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos, aug 2016, [github](https://github.com/myfavouritekk/T-CNN), [arxiv](https://arxiv.org/pdf/1604.02532v3)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
+* Training Region-based Object Detectors with Online Hard Example Mining, apr 2016, Facebook, [arxiv](https://arxiv.org/pdf/1604.03540v1)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
 * SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
@@ -24,6 +25,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 ## Pedestrian Detection
 * Joint Deep Learning for Pedestrian Detection, 2013, [paper](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ouyangWiccv13Joint/material/O&W_ICCV2013.pdf)
+
+## Super Resolution
+* Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network, sep 2016, Twitter, [arxiv](https://arxiv.org/pdf/1609.05158v2)
 
 ## Automated Theorem Proving
 * DeepMath - Deep Sequence Models for Premise Selection, jun 2016, Google [arxiv](https://arxiv.org/pdf/1606.04442.pdf)
