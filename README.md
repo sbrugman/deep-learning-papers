@@ -25,9 +25,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 ## Other
 ### Tools
-* Barista
-* Caffe, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1)
-* Deep Learning 4 J
+* Barrista [github](https://github.com/classner/barrista)
+* Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
+* Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1)
 
 ### Data Sets
 * https://github.com/openimages/dataset
