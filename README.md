@@ -5,3 +5,4 @@ A learned representation for artistic style, okt 2016, Google, https://arxiv.org
 
 ## Data Sets
 https://github.com/openimages/dataset
+https://arxiv.org/abs/1609.08675
