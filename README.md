@@ -23,6 +23,13 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 ## Automated Theorem Proving
 * DeepMath - Deep Sequence Models for Premise Selection, jun 2016, Google [arxiv](https://arxiv.org/pdf/1606.04442.pdf)
 
+## Reverse Engineering
+* Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, okt 2016, [arxiv](https://arxiv.org/pdf/1610.05755v1)
+* Stealing Machine Learning Models via Prediction APIs, aug 2016, [paper](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)
+
+## Language
+* Rationalizing Neural Predictions [github](https://github.com/taolei87/rcnn), [arxiv](https://arxiv.org/pdf/1606.04155v1)
+
 ## Other
 ### Tools
 * Barrista [github](https://github.com/classner/barrista)
@@ -30,5 +37,6 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1)
 
 ### Data Sets
+* Family in the Wild (FIW): A Large-scale Kinship Recognition Database, apr 2016, [arxiv](https://arxiv.org/pdf/1604.02182v1)
 * https://github.com/openimages/dataset
 * YouTube-8M: A Large-Scale Video Classification Benchmark, sep 2016, Google, [arxiv](https://arxiv.org/pdf/1609.08675v1)
