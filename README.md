@@ -4,9 +4,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 ## Object Detection
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
-* ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper) SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2)
+* SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
-* ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf)
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 
 ## Pose Estimation
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
