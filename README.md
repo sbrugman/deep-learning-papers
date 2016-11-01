@@ -19,7 +19,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * FaceNet: A Unified Embedding for Face Recognition and Clustering, mar 2015, [arxiv](https://arxiv.org/pdf/1503.03832v3.pdf)
 
 ## Style Transfer
-* A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf)
+* A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
 * Fast Style Transfer in TensorFlow, [github](https://github.com/lengstrom/fast-style-transfer/)
 * https://arxiv.org/abs/1508.06576
 * https://arxiv.org/abs/1607.08022
