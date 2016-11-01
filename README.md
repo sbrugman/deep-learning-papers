@@ -34,6 +34,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * On the Benefit of Synthetic Data for Company Logo Detection, 2015, [paper](http://www.multimedia-computing.de/mediawiki/images/c/cf/ACMMM2015.pdf)
 * Fast and Robust Realtime Storefront Logo Recognition, [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Liu.pdf)
 * Scalable Logo Recognition in Real-World Images, 2011, [paper](http://www.multimedia-computing.de/mediawiki/images/3/34/ICMR2011_Scalable_Logo_Recognition_in_Real-World_Images.pdf)
+* https://arxiv.org/pdf/1609.01414v1.pdf
 
 _note: also includes some papers that use SIFT_
 
@@ -67,10 +68,13 @@ _note: also includes some papers that use SIFT_
 ### Architecture and optimization
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, feb 2016, [arxiv](https://arxiv.org/pdf/1602.07360v3)
 
-### Tools
+### Tools for Deep Learning
 * Barrista [github](https://github.com/classner/barrista)
 * Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
-* Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1)
+* Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1
+
+### Tools for Papers
+* http://www.arxiv-sanity.com/
 
 ### Data Sets
 * Family in the Wild (FIW): A Large-scale Kinship Recognition Database, apr 2016, [arxiv](https://arxiv.org/pdf/1604.02182v1)
