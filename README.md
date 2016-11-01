@@ -16,13 +16,14 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
 
 ## Face Recognition
-*  FaceNet: A Unified Embedding for Face Recognition and Clustering, mar 2015, [arxiv](https://arxiv.org/pdf/1503.03832v3.pdf)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering, mar 2015, [arxiv](https://arxiv.org/pdf/1503.03832v3.pdf)
 
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf)
 
 ## Logo Recognition
 * Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
+* Logo Localization and Recognition in Natural Images Using Homographic Class Graphs, 2016, [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.9015&rep=rep1&type=pdf)
 * LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks, nov 2015, [arxiv](https://arxiv.org/pdf/1511.02462.pdf)
 * DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer, okt 2015, Berkely, [arxiv](https://arxiv.org/pdf/1510.02131v1.pdf)
 * On the Benefit of Synthetic Data for Company Logo Detection, 2015, [paper](http://www.multimedia-computing.de/mediawiki/images/c/cf/ACMMM2015.pdf)
@@ -35,6 +36,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Reading Text in the Wild with Convolutional Neural Networks, dec 2014, [arxiv](https://arxiv.org/pdf/1412.1842v1.pdf)
 * Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, jun 2014, [arxiv](https://arxiv.org/pdf/1406.2227v4.pdf)
 * Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning, 2011, [paper](http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf)
+
+## Image Segmentation
+* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
 
 ## Pedestrian Detection
 * Joint Deep Learning for Pedestrian Detection, 2013, [paper](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ouyangWiccv13Joint/material/O&W_ICCV2013.pdf)
