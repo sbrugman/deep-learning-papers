@@ -21,6 +21,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf)
 * Fast Style Transfer in TensorFlow, [github](https://github.com/lengstrom/fast-style-transfer/)
+* https://arxiv.org/abs/1508.06576
+* https://arxiv.org/abs/1607.08022
+* http://cs.stanford.edu/people/jcjohns/eccv16/
 
 ## Logo Recognition
 * Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
