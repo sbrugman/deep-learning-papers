@@ -25,6 +25,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
 * LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks, nov 2015, [arxiv](https://arxiv.org/pdf/1511.02462.pdf)
 * DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer, okt 2015, Berkely, [arxiv](https://arxiv.org/pdf/1510.02131v1.pdf)
+* On the Benefit of Synthetic Data for Company Logo Detection, 2015, [paper](http://www.multimedia-computing.de/mediawiki/images/c/cf/ACMMM2015.pdf)
 * Fast and Robust Realtime Storefront Logo Recognition, [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Liu.pdf)
 * Scalable Logo Recognition in Real-World Images, 2011, [paper](http://www.multimedia-computing.de/mediawiki/images/3/34/ICMR2011_Scalable_Logo_Recognition_in_Real-World_Images.pdf)
 
