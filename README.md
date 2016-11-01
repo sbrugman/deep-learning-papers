@@ -30,6 +30,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * On the Benefit of Synthetic Data for Company Logo Detection, 2015, [paper](http://www.multimedia-computing.de/mediawiki/images/c/cf/ACMMM2015.pdf)
 * Fast and Robust Realtime Storefront Logo Recognition, [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Liu.pdf)
 * Scalable Logo Recognition in Real-World Images, 2011, [paper](http://www.multimedia-computing.de/mediawiki/images/3/34/ICMR2011_Scalable_Logo_Recognition_in_Real-World_Images.pdf)
+
 _note: also includes some papers that use SIFT_
 
 ## Text (in the Wild) Recognition
