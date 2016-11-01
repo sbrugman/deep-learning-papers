@@ -22,7 +22,18 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf)
 
 ## Logo Recognition
+* Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
 * LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks, nov 2015, [arxiv](https://arxiv.org/pdf/1511.02462.pdf)
+* DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer, okt 2015, Berkely, [arxiv](https://arxiv.org/pdf/1510.02131v1.pdf)
+* Fast and Robust Realtime Storefront Logo Recognition, [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Liu.pdf)
+* Scalable Logo Recognition in Real-World Images, 2011, [paper](http://www.multimedia-computing.de/mediawiki/images/3/34/ICMR2011_Scalable_Logo_Recognition_in_Real-World_Images.pdf)
+
+## Text (in the Wild) Recognition
+* Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, mar 2016, [arxiv](https://arxiv.org/pdf/1603.03101v1)
+* Efficient Scene Text Localization and Recognition with Local Character Refinement, apr 2015, [arxiv](https://arxiv.org/pdf/1504.03522.pdf)
+* Reading Text in the Wild with Convolutional Neural Networks, dec 2014, [arxiv](https://arxiv.org/pdf/1412.1842v1.pdf)
+* Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, jun 2014, [arxiv](https://arxiv.org/pdf/1406.2227v4.pdf)
+* Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning, 2011, [paper](http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf)
 
 ## Pedestrian Detection
 * Joint Deep Learning for Pedestrian Detection, 2013, [paper](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ouyangWiccv13Joint/material/O&W_ICCV2013.pdf)
@@ -41,6 +52,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Rationalizing Neural Predictions [github](https://github.com/taolei87/rcnn), [arxiv](https://arxiv.org/pdf/1606.04155v1)
 
 ## Other
+### Architecture and optimization
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, feb 2016, [arxiv](https://arxiv.org/pdf/1602.07360v3)
+
 ### Tools
 * Barrista [github](https://github.com/classner/barrista)
 * Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
