@@ -18,11 +18,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
 
 ## Face Recognition
-* FaceNet: A Unified Embedding for Face Recognition and Clustering, mar 2015, [arxiv](https://arxiv.org/pdf/1503.03832v3.pdf)
+* Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition, [paper](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)
 * Deep Face Recognition, 2015, [paper](http://www.robots.ox.ac.uk:5000/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
 * OpenFace: A general-purpose face recognition library with mobile applications, June 2016, [paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
 * Learning Robust Deep Face Representation, Jul 2015, [arxiv](https://arxiv.org/pdf/1507.04844.pdf)
-* FaceNet: A Unified Embedding for Face Recognition and Clustering, Jun 2015, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering, jun 2015, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
 
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
@@ -45,6 +45,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 _note: also includes some papers that use SIFT_
 
 ## Text (in the Wild) Recognition
+* COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images, jun 2016, [arxiv](https://arxiv.org/pdf/1601.07140v2.pdf)
 * Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, mar 2016, [arxiv](https://arxiv.org/pdf/1603.03101v1)
 * Efficient Scene Text Localization and Recognition with Local Character Refinement, apr 2015, [arxiv](https://arxiv.org/pdf/1504.03522.pdf)
 * Reading Text in the Wild with Convolutional Neural Networks, dec 2014, [arxiv](https://arxiv.org/pdf/1412.1842v1.pdf)
