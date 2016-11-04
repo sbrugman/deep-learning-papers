@@ -1,7 +1,7 @@
 # deep-learning-papers
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
-## Object Detection
+## Object Recognition
 * Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](http://delivery.acm.org/10.1145/2970000/2967205/p172-wu.pdf)
 * T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos, aug 2016, [github](https://github.com/myfavouritekk/T-CNN), [arxiv](https://arxiv.org/pdf/1604.02532v3)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
@@ -11,12 +11,18 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
+* Selective Search for Object Recognition, 2012, [paper](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
+* Rich feature hierarchies for accurate object detection and semantic segmentation, 2014, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 
 ## Pose Estimation
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
 
 ## Face Recognition
 * FaceNet: A Unified Embedding for Face Recognition and Clustering, mar 2015, [arxiv](https://arxiv.org/pdf/1503.03832v3.pdf)
+* Deep Face Recognition, 2015, [paper](http://www.robots.ox.ac.uk:5000/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+* OpenFace: A general-purpose face recognition library with mobile applications, June 2016, [paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
+* Learning Robust Deep Face Representation, Jul 2015, [arxiv](https://arxiv.org/pdf/1507.04844.pdf)
+* FaceNet: A Unified Embedding for Face Recognition and Clustering, Jun 2015, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
 
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
@@ -44,6 +50,9 @@ _note: also includes some papers that use SIFT_
 * Reading Text in the Wild with Convolutional Neural Networks, dec 2014, [arxiv](https://arxiv.org/pdf/1412.1842v1.pdf)
 * Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, jun 2014, [arxiv](https://arxiv.org/pdf/1406.2227v4.pdf)
 * Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning, 2011, [paper](http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf)
+
+## ConvNet visualization
+* Visualizing and Understanding Convolutional Networks, Nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
 ## Image Segmentation
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
