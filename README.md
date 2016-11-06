@@ -89,6 +89,7 @@ _note: also includes some papers that use SIFT_
 * http://www.arxiv-sanity.com/
 
 ### Data Sets
+* MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition, jul 2016, [arxiv](https://arxiv.org/abs/1607.08221)
 * Family in the Wild (FIW): A Large-scale Kinship Recognition Database, apr 2016, [arxiv](https://arxiv.org/pdf/1604.02182v1)
 * https://github.com/openimages/dataset
 * YouTube-8M: A Large-Scale Video Classification Benchmark, sep 2016, Google, [arxiv](https://arxiv.org/pdf/1609.08675v1)
