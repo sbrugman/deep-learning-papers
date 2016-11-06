@@ -21,9 +21,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition, [paper](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)
 * OpenFace: A general-purpose face recognition library with mobile applications, June 2016, [paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/2016/CMU-CS-16-118.pdf)
 * Deep Face Recognition, 2015, [paper](http://www.robots.ox.ac.uk:5000/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
-*  Compact Convolutional Neural Network Cascade for Face Detection, aug 2015, [arxiv](https://arxiv.org/pdf/1508.01292v3)
+* Compact Convolutional Neural Network Cascade for Face Detection, aug 2015, [arxiv](https://arxiv.org/pdf/1508.01292v3)
 * Learning Robust Deep Face Representation, Jul 2015, [arxiv](https://arxiv.org/pdf/1507.04844.pdf)
 * FaceNet: A Unified Embedding for Face Recognition and Clustering, jun 2015, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+* Multi-view Face Detection Using Deep Convolutional Neural Networks, yahoo, feb 2015, [arxiv](https://arxiv.org/pdf/1502.02766v3.pdf)
 
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
