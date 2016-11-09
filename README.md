@@ -9,6 +9,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Training Region-based Object Detectors with Online Hard Example Mining, apr 2016, Facebook, [arxiv](https://arxiv.org/pdf/1604.03540v1)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
 * SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
+* ParseNet: Looking Wider to See Better, jun 2015, [arxiv](https://arxiv.org/pdf/1506.04579v2.pdf)
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Selective Search for Object Recognition, 2012, [paper](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
