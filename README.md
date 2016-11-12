@@ -30,9 +30,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 ## Style Transfer
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
 * Fast Style Transfer in TensorFlow, [github](https://github.com/lengstrom/fast-style-transfer/)
-* https://arxiv.org/abs/1508.06576
-* https://arxiv.org/abs/1607.08022
-* http://cs.stanford.edu/people/jcjohns/eccv16/
+* Instance Normalization: The Missing Ingredient for Fast Stylization, sept 2016, [arxiv](https://arxiv.org/abs/1607.08022)
+* A Neural Algorithm of Artistic Style, sept 2015, [arxiv](https://arxiv.org/abs/1508.06576)
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution, [arxiv](https://arxiv.org/pdf/1603.08155v1), [github](http://github.com/jcjohnson/fast-neural-style)
 
 ## Logo Recognition
 * Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
@@ -85,7 +85,7 @@ _note: also includes some papers that use SIFT_
 ### Tools for Deep Learning
 * Barrista [github](https://github.com/classner/barrista)
 * Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
-* Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1
+* Caffe: Convolutional Architecture for Fast Feature Embedding, jun 2014, [github](https://github.com/BVLC/caffe), [arxiv](https://arxiv.org/pdf/1408.5093v1)
 
 ### Tools for Papers
 * http://www.arxiv-sanity.com/
