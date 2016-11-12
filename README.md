@@ -2,7 +2,7 @@
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
 ## Object Recognition
-* Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](http://delivery.acm.org/10.1145/2970000/2967205/p172-wu.pdf)
+* Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf)
 * T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos, aug 2016, [github](https://github.com/myfavouritekk/T-CNN), [arxiv](https://arxiv.org/pdf/1604.02532v3)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
 * Residual Networks of Residual Networks: Multilevel Residual Networks, aug 2016, [arxiv](https://arxiv.org/pdf/1608.02908v1)
