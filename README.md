@@ -92,6 +92,7 @@ _note: also includes some papers that use SIFT_
 
 ## Other
 ### Architecture and optimization
+* RenderGAN: Generating Realistic Labeled Data, nov 2016, [arxiv](https://arxiv.org/pdf/1611.01331v3.pdf)
 * Snapshot Ensembles: Train 1, Get M for Free, 2016, [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/snapshot-ensembles-train-1-get-m-for-free.pdf), [github](https://github.com/gaohuang/SnapshotEnsemble)
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, feb 2016, [arxiv](https://arxiv.org/pdf/1602.07360v3)
 
