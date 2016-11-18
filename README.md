@@ -2,6 +2,7 @@
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
 ## Object Recognition
+* Hierarchical Object Detection with Deep Reinforcement Learning, nov 2016, [arxiv](https://arxiv.org/pdf/1611.03718v1.pdf)
 * Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf)
 * T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos, aug 2016, [github](https://github.com/myfavouritekk/T-CNN), [arxiv](https://arxiv.org/pdf/1604.02532v3)
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
@@ -65,8 +66,15 @@ _note: also includes some papers that use SIFT_
 ## Pedestrian Detection
 * Joint Deep Learning for Pedestrian Detection, 2013, [paper](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ouyangWiccv13Joint/material/O&W_ICCV2013.pdf)
 
+## Lip Reading
+* Lip Reading in the Wild, 2016, Oxford, [paper](https://github.com/sbrugman/deep-learning-papers/tree/master/papers/lip-reading-in-the-wild.pdf)
+
 ## Super Resolution
+* RAISR: Rapid and Accurate Image Super Resolution, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1606.01299v3.pdf)
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network, sep 2016, Twitter, [arxiv](https://arxiv.org/pdf/1609.05158v2)
+
+## Image Compression
+*  Full Resolution Image Compression with Recurrent Neural Networks, aug 2016, Google [arxiv](https://arxiv.org/pdf/1608.05148v1.pdf)
 
 ## Automated Theorem Proving
 * DeepMath - Deep Sequence Models for Premise Selection, jun 2016, Google [arxiv](https://arxiv.org/pdf/1606.04442.pdf)
@@ -77,6 +85,10 @@ _note: also includes some papers that use SIFT_
 
 ## Language
 * Rationalizing Neural Predictions [github](https://github.com/taolei87/rcnn), [arxiv](https://arxiv.org/pdf/1606.04155v1)
+
+## Translation
+* Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, nov 2016, Google, [arxiv](https://arxiv.org/pdf/1611.04558v1.pdf)
+* Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, okt 2016, Google [arxiv](https://arxiv.org/pdf/1609.08144v2.pdf)
 
 ## Other
 ### Architecture and optimization
