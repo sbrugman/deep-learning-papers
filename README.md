@@ -1,4 +1,4 @@
-# deep-learning-papers
+# Deep Learning Papers
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
 ## Object Recognition
