@@ -58,6 +58,9 @@ _note: also includes some papers that use SIFT_
 * Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, jun 2014, [arxiv](https://arxiv.org/pdf/1406.2227v4.pdf)
 * Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning, 2011, [paper](http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf)
 
+## Image / Video Description
+*  Long-term Recurrent Convolutional Networks for Visual Recognition and Description, may 2016, [arxiv](https://arxiv.org/pdf/1411.4389v4)
+
 ## ConvNet visualization
 * Visualizing and Understanding Convolutional Networks, Nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
