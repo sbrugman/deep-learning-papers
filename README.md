@@ -52,7 +52,7 @@ _note: also includes some papers that use SIFT_
 
 ## Text (in the Wild) Recognition
 * COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images, jun 2016, [arxiv](https://arxiv.org/pdf/1601.07140v2.pdf)
-* Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, mar 2016, [arxiv](https://arxiv.org/pdf/1603.03101v1)
+* Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, mar 2016, [arxiv](https://arxiv.org/pdf/1603.03101v1) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Efficient Scene Text Localization and Recognition with Local Character Refinement, apr 2015, [arxiv](https://arxiv.org/pdf/1504.03522.pdf)
 * Reading Text in the Wild with Convolutional Neural Networks, dec 2014, [arxiv](https://arxiv.org/pdf/1412.1842v1.pdf)
 * Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, jun 2014, [arxiv](https://arxiv.org/pdf/1406.2227v4.pdf)
