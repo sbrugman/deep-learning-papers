@@ -59,13 +59,20 @@ _note: also includes some papers that use SIFT_
 * Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning, 2011, [paper](http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf)
 
 ## Image / Video Description
-*  Long-term Recurrent Convolutional Networks for Visual Recognition and Description, may 2016, [arxiv](https://arxiv.org/pdf/1411.4389v4)
+* Generation and Comprehension of Unambiguous Object Descriptions, apr 2016, [arxiv](https://arxiv.org/pdf/1511.02283v3.pdf)
+* Long-term Recurrent Convolutional Networks for Visual Recognition and Description, may 2016, [arxiv](https://arxiv.org/pdf/1411.4389v4)
+
+## Detect key actor
+* Detecting events and key actors in multi-person videos, mar 2015, [arxiv](https://arxiv.org/pdf/1511.02917v2.pdf)
 
 ## ConvNet visualization
 * Visualizing and Understanding Convolutional Networks, Nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
 ## Image Segmentation
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
+
+## Object part detection
+* Discovering the physical parts of an articulated object class from multiple videos, 2016, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Del_Pero_Discovering_the_Physical_CVPR_2016_paper.pdf)
 
 ## Pedestrian Detection
 * Joint Deep Learning for Pedestrian Detection, 2013, [paper](http://www.ee.cuhk.edu.hk/~wlouyang/projects/ouyangWiccv13Joint/material/O&W_ICCV2013.pdf)
