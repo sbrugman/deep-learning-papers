@@ -102,6 +102,9 @@ _note: also includes some papers that use SIFT_
 * Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, nov 2016, Google, [arxiv](https://arxiv.org/pdf/1611.04558v1.pdf)
 * Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, okt 2016, Google [arxiv](https://arxiv.org/pdf/1609.08144v2.pdf)
 
+## Age
+*  Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker, dec 2016, [arxiv](https://arxiv.org/pdf/1612.02572v1)
+
 ## Other
 ### Architecture and optimization
 * RenderGAN: Generating Realistic Labeled Data, nov 2016, [arxiv](https://arxiv.org/pdf/1611.01331v3.pdf)
