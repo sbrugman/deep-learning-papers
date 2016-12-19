@@ -128,6 +128,7 @@ _note: also includes some papers that use SIFT_
 * Family in the Wild (FIW): A Large-scale Kinship Recognition Database, apr 2016, [arxiv](https://arxiv.org/pdf/1604.02182v1)
 * https://github.com/openimages/dataset
 * YouTube-8M: A Large-Scale Video Classification Benchmark, sep 2016, Google, [arxiv](https://arxiv.org/pdf/1609.08675v1)
+* The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes, 2016, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)
 
 ### Uncategorized
 https://github.com/blue-yonder/tsfresh
