@@ -69,6 +69,7 @@ _note: also includes some papers that use SIFT_
 * Visualizing and Understanding Convolutional Networks, Nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
 ## Image Segmentation
+* Fully Convolutional Networks for Semantic Segmentation, may 2016, [arxiv](https://arxiv.org/pdf/1605.06211v1)
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
 
 ## Object part detection
