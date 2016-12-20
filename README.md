@@ -2,6 +2,7 @@
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 
 ## Object Recognition
+* Feature Pyramid Networks for Object Detection, dec 2016, [arxiv](https://arxiv.org/pdf/1612.03144.pdf)
 * Aggregated Residual Transformations for Deep Neural Networks, nov 2016, [arxiv](https://arxiv.org/pdf/1611.05431v1.pdf)
 * Hierarchical Object Detection with Deep Reinforcement Learning, nov 2016, [arxiv](https://arxiv.org/pdf/1611.03718v1.pdf)
 * Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition, okt 2016, IBM, [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf)
