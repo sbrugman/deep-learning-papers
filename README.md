@@ -17,6 +17,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, feb 2015, [arxiv](https://arxiv.org/pdf/1502.01852v1)
+* Deep Image: Scaling up Image Recognition, jul 2015, [arxiv](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf)
 * Rich feature hierarchies for accurate object detection and semantic segmentation, 2014, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 * Selective Search for Object Recognition, 2012, [paper](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
 
