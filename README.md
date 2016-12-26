@@ -21,6 +21,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Rich feature hierarchies for accurate object detection and semantic segmentation, 2014, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 * Selective Search for Object Recognition, 2012, [paper](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
 
+## Image Segmentation
+* Learning Features by Watching Objects Move, dec 2016, Facebook, [arxiv](https://arxiv.org/pdf/1612.06370.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
+* Fully Convolutional Networks for Semantic Segmentation, may 2016, [arxiv](https://arxiv.org/pdf/1605.06211v1)
+* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
 
 ## Pose Estimation
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
@@ -71,11 +75,7 @@ _note: also includes some papers that use SIFT_
 * Detecting events and key actors in multi-person videos, mar 2015, [arxiv](https://arxiv.org/pdf/1511.02917v2.pdf)
 
 ## ConvNet visualization
-* Visualizing and Understanding Convolutional Networks, Nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
-
-## Image Segmentation
-* Fully Convolutional Networks for Semantic Segmentation, may 2016, [arxiv](https://arxiv.org/pdf/1605.06211v1)
-* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
+* Visualizing and Understanding Convolutional Networks, nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
 ## Object part detection
 * Discovering the physical parts of an articulated object class from multiple videos, 2016, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Del_Pero_Discovering_the_Physical_CVPR_2016_paper.pdf)
