@@ -127,6 +127,7 @@ _note: also includes some papers that use SIFT_
 * http://www.arxiv-sanity.com/
 
 ### Data Sets
+* CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning, dec 2016, [arxiv](https://arxiv.org/pdf/1612.06890.pdf)
 * MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition, jul 2016, [arxiv](https://arxiv.org/abs/1607.08221)
 * Family in the Wild (FIW): A Large-scale Kinship Recognition Database, apr 2016, [arxiv](https://arxiv.org/pdf/1604.02182v1)
 * https://github.com/openimages/dataset
