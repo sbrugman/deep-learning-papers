@@ -75,6 +75,9 @@ _note: also includes some papers that use SIFT_
 ## Detect key actor
 * Detecting events and key actors in multi-person videos, mar 2015, [arxiv](https://arxiv.org/pdf/1511.02917v2.pdf)
 
+## Self-driving cars
+* End to End Learning for Self-Driving Cars, apr 2016, NVIDIA, [arxiv](https://arxiv.org/pdf/1604.07316.pdf)
+
 ## ConvNet visualization
 * Visualizing and Understanding Convolutional Networks, nov 2013, [arxiv](https://arxiv.org/pdf/1311.2901.pdf)
 
