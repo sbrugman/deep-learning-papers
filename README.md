@@ -1,5 +1,5 @@
 # Deep Learning Papers
-Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
+Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
 
 ## Object Recognition
 * Feature Pyramid Networks for Object Detection, dec 2016, [arxiv](https://arxiv.org/pdf/1612.03144.pdf)
@@ -20,6 +20,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Deep Image: Scaling up Image Recognition, jul 2015, [arxiv](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf)
 * Rich feature hierarchies for accurate object detection and semantic segmentation, 2014, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 * Selective Search for Object Recognition, 2012, [paper](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
+* ImageNet Classification with Deep Convolutional Neural Networks, 2012, [paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) ![getting-started](https://img.shields.io/badge/style-getting_started-yellow.svg?style=flat&label=paper)
 
 ## Image Segmentation
 * Learning Features by Watching Objects Move, dec 2016, Facebook, [arxiv](https://arxiv.org/pdf/1612.06370.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
