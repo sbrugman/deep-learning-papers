@@ -47,6 +47,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution, [arxiv](https://arxiv.org/pdf/1603.08155v1), [github](http://github.com/jcjohnson/fast-neural-style)
 
 ## Logo Recognition
+* Deep Learning Logo Detection with Data Expansion by Synthesising Context, jan 2016, [arxiv](https://arxiv.org/pdf/1612.09322.pdf)![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper) 
 * Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks, apr 2016, [arxiv](https://arxiv.org/pdf/1604.06083.pdf)
 * Logo Localization and Recognition in Natural Images Using Homographic Class Graphs, 2016, [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.9015&rep=rep1&type=pdf)
 * LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks, nov 2015, [arxiv](https://arxiv.org/pdf/1511.02462.pdf)
