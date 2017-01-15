@@ -26,6 +26,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Learning Features by Watching Objects Move, dec 2016, Facebook, [arxiv](https://arxiv.org/pdf/1612.06370.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Fully Convolutional Networks for Semantic Segmentation, may 2016, [arxiv](https://arxiv.org/pdf/1605.06211v1)
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
+* Learning Rich Features from RGB-D Images for Object Detection and Segmentation, jul 2014, [arxiv](https://arxiv.org/pdf/1407.5736v1)
 
 ## Pose Estimation
 * Fast Single Shot Detection and Pose Estimation, sep 2016, [arxiv](https://arxiv.org/pdf/1609.05590.pdf)
