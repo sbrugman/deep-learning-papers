@@ -2,6 +2,7 @@
 Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
 
 ## Object Recognition
+* YOLO9000: Better, Faster, Stronger, dec 2016, [arxiv](https://arxiv.org/pdf/1612.08242v1) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Feature Pyramid Networks for Object Detection, dec 2016, [arxiv](https://arxiv.org/pdf/1612.03144.pdf)
 * Aggregated Residual Transformations for Deep Neural Networks, nov 2016, [arxiv](https://arxiv.org/pdf/1611.05431v1.pdf)
 * Hierarchical Object Detection with Deep Reinforcement Learning, nov 2016, [arxiv](https://arxiv.org/pdf/1611.03718v1.pdf)
@@ -12,10 +13,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Context Matters: Refining Object Detection in Video with Recurrent Neural Networks, jul 2016, [arxiv](https://arxiv.org/pdf/1607.04648.pdf)
 * Training Region-based Object Detectors with Online Hard Example Mining, apr 2016, Facebook, [arxiv](https://arxiv.org/pdf/1604.03540v1)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
-* SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
+* SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2)
 * ParseNet: Looking Wider to See Better, jun 2015, [arxiv](https://arxiv.org/pdf/1506.04579v2.pdf)
 * You Only Look Once: Unified, Real-Time Object Detection, jun 2015, Facebook, [arxiv](https://arxiv.org/pdf/1506.02640v5)
-* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, jun 2015, Microsoft/Facebook [arxiv](https://arxiv.org/pdf/1506.01497v3.pdf) 
 * Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, feb 2015, [arxiv](https://arxiv.org/pdf/1502.01852v1)
 * Deep Image: Scaling up Image Recognition, jul 2015, [arxiv](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf)
 * Rich feature hierarchies for accurate object detection and semantic segmentation, 2014, [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
