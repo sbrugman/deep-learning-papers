@@ -125,6 +125,12 @@ _note: also includes some papers that use SIFT_
 * Snapshot Ensembles: Train 1, Get M for Free, 2016, [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/snapshot-ensembles-train-1-get-m-for-free.pdf), [github](https://github.com/gaohuang/SnapshotEnsemble)
 * Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis, 2003, [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2003/08/icdar03.pdf)
 
+### Optimizers
+* Adam: A Method for Stochastic Optimization, jan 2017, [arxiv](https://arxiv.org/pdf/1412.6980.pdf)
+* RMSProp
+* ADADELTA: an adaptive learning rate method, 2012, [arxiv](https://arxiv.org/pdf/1212.5701.pdf)
+* SGD
+
 ### Tools for Deep Learning
 * Barrista [github](https://github.com/classner/barrista)
 * Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
