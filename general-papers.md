@@ -16,6 +16,9 @@
 * Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, oct 2016, [arxiv](https://arxiv.org/pdf/1506.02142)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, mar 2015, [arxiv](https://arxiv.org/pdf/1502.03167.pdf)
 
+## Other papers, but also interesting
+* Deep Forest: Towards An Alternative to Deep Neural Networks, feb 2017, [arxiv](https://arxiv.org/pdf/1702.08835)
+
 ## Tools for Deep Learning
 * Barrista [github](https://github.com/classner/barrista)
 * Deep Learning 4 J [github](https://github.com/deeplearning4j/deeplearning4j)
