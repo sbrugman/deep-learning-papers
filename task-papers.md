@@ -24,6 +24,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * ImageNet Classification with Deep Convolutional Neural Networks, 2012, [paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) ![getting-started](https://img.shields.io/badge/style-getting_started-yellow.svg?style=flat&label=paper)
 
 ## Image Segmentation
+* Mask R-CNN, mar 2017, [arxiv](https://arxiv.org/pdf/1703.06870)
 * Learning Features by Watching Objects Move, dec 2016, Facebook, [arxiv](https://arxiv.org/pdf/1612.06370.pdf) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Fully Convolutional Networks for Semantic Segmentation, may 2016, [arxiv](https://arxiv.org/pdf/1605.06211v1)
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, dec 2015, [arxiv](https://arxiv.org/pdf/1511.00561v2.pdf)
@@ -42,6 +43,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Multi-view Face Detection Using Deep Convolutional Neural Networks, yahoo, feb 2015, [arxiv](https://arxiv.org/pdf/1502.02766v3.pdf)
 
 ## Style Transfer
+* Deep Photo Style Transfer, mar 2017, [arxiv](https://arxiv.org/pdf/1703.07511)
 * A learned representation for artistic style, okt 2016, Google, [arxiv](https://arxiv.org/pdf/1610.07629v1.pdf), [demo](https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/)
 * Fast Style Transfer in TensorFlow, [github](https://github.com/lengstrom/fast-style-transfer/)
 * Instance Normalization: The Missing Ingredient for Fast Stylization, sept 2016, [arxiv](https://arxiv.org/abs/1607.08022)
