@@ -1,5 +1,6 @@
 # Deep Learning Papers for general use
 ## Architecture and optimization
+* Aggregated Residual Transformations for Deep Neural Networks, nov 2016, [arxiv](https://arxiv.org/pdf/1611.05431.pdf)
 * RenderGAN: Generating Realistic Labeled Data, nov 2016, [arxiv](https://arxiv.org/pdf/1611.01331v3.pdf)
 * Xception:  Deep Learning with Depthwise Separable Convolutions, okt 2016, [arxiv](https://arxiv.org/pdf/1610.02357.pdf)
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding, feb 2016, [arxiv](https://arxiv.org/pdf/1510.00149v5.pdf)
