@@ -11,6 +11,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, aug 2016, Google, [arxiv](https://arxiv.org/pdf/1602.07261.pdf)
 * Residual Networks of Residual Networks: Multilevel Residual Networks, aug 2016, [arxiv](https://arxiv.org/pdf/1608.02908v1)
 * Context Matters: Refining Object Detection in Video with Recurrent Neural Networks, jul 2016, [arxiv](https://arxiv.org/pdf/1607.04648.pdf)
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks, jun 2016, [arxiv](https://arxiv.org/pdf/1605.06409.pdf)
 * Training Region-based Object Detectors with Online Hard Example Mining, apr 2016, Facebook, [arxiv](https://arxiv.org/pdf/1604.03540v1)
 * Deep Residual Learning for Image Recognition, dec 2015, [arxiv](https://arxiv.org/pdf/1512.03385v1)
 * SSD: Single Shot MultiBox Detector, dec 2015, Google, [github](https://github.com/weiliu89/caffe/tree/ssd), [arxiv](https://arxiv.org/pdf/1512.02325v2)
