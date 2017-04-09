@@ -4,6 +4,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 ## Object Recognition
 * YOLO9000: Better, Faster, Stronger, dec 2016, [arxiv](https://arxiv.org/pdf/1612.08242v1) ![state-of-the-art](https://img.shields.io/badge/style-state_of_the_art-green.svg?style=flat&label=paper)
 * Feature Pyramid Networks for Object Detection, dec 2016, [arxiv](https://arxiv.org/pdf/1612.03144.pdf)
+* Densely Connected Convolutional Networks, dec 2016, [arxiv](https://arxiv.org/pdf/1608.06993.pdf)
 * PVANet: Lightweight Deep Neural Networks for Real-time Object Detection, dec 2016, [arxiv](https://arxiv.org/pdf/1611.08588.pdf)
 * Aggregated Residual Transformations for Deep Neural Networks, nov 2016, [arxiv](https://arxiv.org/pdf/1611.05431v1.pdf)
 * Hierarchical Object Detection with Deep Reinforcement Learning, nov 2016, [arxiv](https://arxiv.org/pdf/1611.03718v1.pdf)
