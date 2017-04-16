@@ -98,6 +98,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Forecasting Human Dynamics from Static Images | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03432) |  | _None_ | 
 | Fast Single Shot Detection and Pose Estimation | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05590) |  | _None_ | 
 ### Image Captioning
 
