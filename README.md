@@ -17,6 +17,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
+### Classification
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 ## Visual
 ### Gaming
 
