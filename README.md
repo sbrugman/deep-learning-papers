@@ -1,26 +1,31 @@
 # Deep Learning Papers by task
 Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
 ## Text
-###Code Generation
+### Code Generation
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __A Syntactic Neural Model for General-Purpose Code Generation__ | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01696) |  | _None_ | 
-###Sentiment Analysis
+### Sentiment Analysis
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Rationalizing Neural Predictions__ | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
-###Translation
+### Translation
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation__ | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
 | __Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation__ | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
 ## Visual
-###Gaming
+### Gaming
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Overcoming catastrophic forgetting in neural networks__ | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | _None_ | 
 | __Playing Atari with Deep Reinforcement Learning__ | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | _None_ | 
-###Style Transfer
+### Style Transfer
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Deep Photo Style Transfer__ | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  | _None_ | 
@@ -29,7 +34,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | __Perceptual Losses for Real-Time Style Transfer and Super-Resolution__ | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) |  | _None_ | 
 | __Perceptual Losses for Real-Time Style Transfer and Super-Resolution__ | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
 | __A Neural Algorithm of Artistic Style__ | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) |  | _None_ | 
-###Image Segmentation
+### Image Segmentation
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Mask R-CNN__ | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | _None_ | 
@@ -38,7 +44,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | __Instance-aware Semantic Segmentation via Multi-task Network Cascades__ | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
 | __SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation__ | _2 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.00561) |  | _None_ | 
 | __Learning Rich Features from RGB-D Images for Object Detection and Segmentation__ | _22 jul 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736) |  | _None_ | 
-###Text (in the Wild) Recognition
+### Text (in the Wild) Recognition
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __OCR Error Correction Using Character Correction and Feature-Based Word Classification__ | _21 apr 2016_ | [arxiv](https://arxiv.org/pdf/1604.06225) |  | _None_ | 
@@ -47,7 +54,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | __Efficient Scene Text Localization and Recognition with Local Character Refinement__ | _14 apr 2015_ | [arxiv](https://arxiv.org/pdf/1504.03522) |  | _None_ | 
 | __Reading Text in the Wild with Convolutional Neural Networks__ | _4 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.1842) |  | _None_ | 
 | __Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition__ | _9 jun 2014_ | [arxiv](https://arxiv.org/pdf/1406.2227) |  | _None_ | 
-###Object Recognition
+### Object Recognition
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __YOLO9000: Better, Faster, Stronger__ | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) |  | _None_ | 
@@ -71,65 +79,77 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | __Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks__ | _4 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.01497) |  | _None_ | 
 | __Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification__ | _6 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.01852) |  | _None_ | 
 | __Deep Image: Scaling up Image Recognition__ | _13 jan 2015_ | [arxiv](https://arxiv.org/pdf/1501.02876) |  | _None_ | 
-###Logo Recognition
+### Logo Recognition
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Deep Learning Logo Detection with Data Expansion by Synthesising Context__ | _29 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.09322) |  | _None_ | 
 | __Automatic Graphic Logo Detection via Fast Region-based Convolutional Networks__ | _20 apr 2016_ | [arxiv](https://arxiv.org/pdf/1604.06083) |  | _None_ | 
 | __LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks__ | _8 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02462) |  | _None_ | 
 | __DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer__ | _7 okt 2015_ | [arxiv](https://arxiv.org/pdf/1510.02131) |  | _None_ | 
-###Super Resolution
+### Super Resolution
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network__ | _16 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05158) |  | _None_ | 
 | __RAISR: Rapid and Accurate Image Super Resolution__ | _3 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.01299) |  | _None_ | 
 | __Perceptual Losses for Real-Time Style Transfer and Super-Resolution__ | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
-###Pose Estimation
+### Pose Estimation
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Fast Single Shot Detection and Pose Estimation__ | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05590) |  | _None_ | 
-###Image Captioning
+### Image Captioning
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Deep Reinforcement Learning-based Image Captioning with Embedding Reward__ | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | __Generation and Comprehension of Unambiguous Object Descriptions__ | _7 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | _None_ | 
 | __Long-term Recurrent Convolutional Networks for Visual Recognition and Description__ | _17 nov 2014_ | [arxiv](https://arxiv.org/pdf/1411.4389) |  | _None_ | 
-###Image Compression
+### Image Compression
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Full Resolution Image Compression with Recurrent Neural Networks__ | _18 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.05148) |  | _None_ | 
-###Image Synthesis
+### Image Synthesis
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __RenderGAN: Generating Realistic Labeled Data__ | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
-###Face Recognition
+### Face Recognition
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Compact Convolutional Neural Network Cascade for Face Detection__ | _6 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) |  | _None_ | 
 | __Learning Robust Deep Face Representation__ | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | _None_ | 
 | __Multi-view Face Detection Using Deep Convolutional Neural Networks__ | _10 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) |  | _None_ | 
 ## Audio
-###Audio Synthesis
+### Audio Synthesis
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __A Neural Parametric Singing Synthesizer__ | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
 ## Other
-###Unclassified
+### Unclassified
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data__ | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | __DeepMath - Deep Sequence Models for Premise Selection__ | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
-###Regularization
+### Regularization
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning__ | _6 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02142) |  | _None_ | 
 | __Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift__ | _11 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167) |  | _None_ | 
-###Neural Network Compression
+### Neural Network Compression
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and &lt;0.5MB model size__ | _24 feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.07360) |  | _None_ | 
 | __Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding__ | _1 okt 2015_ | [arxiv](https://arxiv.org/pdf/1510.00149) |  | _None_ | 
-###Optimizers
+### Optimizers
+
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | __Adam: A Method for Stochastic Optimization__ | _22 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6980) |  | _None_ | 
