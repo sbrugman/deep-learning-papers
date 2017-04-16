@@ -21,6 +21,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 ## Visual
 ### Gaming
@@ -123,6 +124,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | A Neural Representation of Sketch Drawings | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | _None_ | 
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
+| Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
 ### Face Recognition
 
 |Title|Date|Paper|Code|Labels|
