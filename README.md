@@ -1,10 +1,31 @@
 # Deep Learning Papers by task
 Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
 # Table of Contents
-1. [Text](##text)
-2. [Visual](##visual)
-3. [Audio](##audio)
-4. [Other](##other)
+1. [Text](#text)
+	1.1. [Code Generation](#code generation)
+	1.2. [Sentiment Analysis](#sentiment analysis)
+	1.3. [Translation](#translation)
+	1.4. [Classification](#classification)
+2. [Visual](#visual)
+	2.1. [Gaming](#gaming)
+	2.2. [Style Transfer](#style transfer)
+	2.3. [Image Segmentation](#image segmentation)
+	2.4. [Text (in the Wild) Recognition](#text (in the wild) recognition)
+	2.5. [Object Recognition](#object recognition)
+	2.6. [Logo Recognition](#logo recognition)
+	2.7. [Super Resolution](#super resolution)
+	2.8. [Pose Estimation](#pose estimation)
+	2.9. [Image Captioning](#image captioning)
+	2.10. [Image Compression](#image compression)
+	2.11. [Image Synthesis](#image synthesis)
+	2.12. [Face Recognition](#face recognition)
+3. [Audio](#audio)
+	3.1. [Audio Synthesis](#audio synthesis)
+4. [Other](#other)
+	4.1. [Unclassified](#unclassified)
+	4.2. [Regularization](#regularization)
+	4.3. [Neural Network Compression](#neural network compression)
+	4.4. [Optimizers](#optimizers)
 ## Text
 ### Code Generation
 
@@ -69,8 +90,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) |  | _None_ | 
-| Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Hierarchical Object Detection with Deep Reinforcement Learning | _11 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.03718) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
