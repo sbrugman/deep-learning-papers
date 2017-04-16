@@ -33,7 +33,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
-| A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) |  | _None_ | 
+| A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) | _None_ | 
 ### Image Segmentation
 
 |Title|Date|Paper|Code|Labels|
@@ -60,7 +60,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) |  | _None_ | 
 | Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Hierarchical Object Detection with Deep Reinforcement Learning | _11 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.03718) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
@@ -131,7 +131,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
-| WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) |  | _None_ | 
+| WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
 ## Other
 ### Unclassified
 
