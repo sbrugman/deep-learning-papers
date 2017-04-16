@@ -1,5 +1,10 @@
 # Deep Learning Papers by task
 Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
+# Table of Contents
+1. [Text](##text)
+2. [Visual](##visual)
+3. [Audio](##audio)
+4. [Other](##other)
 ## Text
 ### Code Generation
 
