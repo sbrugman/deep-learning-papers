@@ -37,7 +37,6 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Deep Photo Style Transfer | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  | _None_ | 
 | A Learned Representation For Artistic Style | _24 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.07629) |  | _None_ | 
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
-| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
 | A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) | _None_ | 
 ### Image Segmentation
@@ -123,6 +122,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Neural Representation of Sketch Drawings | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | _None_ | 
+| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _30 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | _None_ | 
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
 | Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
 ### Face Recognition
