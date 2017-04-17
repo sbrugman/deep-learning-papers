@@ -154,6 +154,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network | _16 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05158) |  | _None_ | 
+| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network | _15 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.04802) |  | _None_ | 
 | RAISR: Rapid and Accurate Image Super Resolution | _3 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.01299) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
 ### Pose Estimation
@@ -179,6 +180,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Neural Representation of Sketch Drawings | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | _None_ | 
+| BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | [github](https://github.com/carpedm20/BEGAN-tensorflow) | _None_ | 
+| Improved Training of Wasserstein GANs | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | _None_ | 
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _30 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | _None_ | 
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
 | Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
