@@ -185,7 +185,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 okt 2016_ | [paper](https://www.cs.cmu.edu/%7Esbhagava/papers/face-rec-ccs16.pdf) |  | _None_ | 
+| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/accessorize-to-a-crime-real-and-stealthy-attacks-on-state-of-the-art-face-recognition.pdf) |  | _None_ | 
+| OpenFace: A general-purpose face recognition library with mobile applications | _1 jun 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/openface-a-general-purpose-face-recognition-library-with-mobile-applications.pdf) |  | _None_ | 
+| Deep Face Recognition | _7 sep 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/deep-face-recognition.pdf) |  | _None_ | 
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) |  | _None_ | 
 | Learning Robust Deep Face Representation | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | _None_ | 
 | Facenet: A unified embedding for face recognition and clustering | _12 jun 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/facenet-a-unified-embedding-for-face-recognition-and-clustering.pdf) |  | _None_ | 
