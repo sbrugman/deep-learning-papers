@@ -81,10 +81,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | _None_ | 
-| FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | _None_ | 
-| Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | _None_ | 
-| Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | _None_ | 
+| Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
 |Title|Date|Paper|Code|Labels|
@@ -99,7 +99,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | _None_ | 
+| Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) |  | _None_ | 
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
@@ -120,9 +120,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | _None_ | 
+| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Hierarchical Object Detection with Deep Reinforcement Learning | _11 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.03718) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
