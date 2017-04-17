@@ -81,6 +81,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | _None_ | 
+| FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | _None_ | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | _None_ | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | _None_ | 
 ### Style Transfer
@@ -159,6 +160,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network | _15 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.04802) |  | _None_ | 
 | RAISR: Rapid and Accurate Image Super Resolution | _3 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.01299) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
+| Image Super-Resolution Using Deep Convolutional Networks | _31 dec 2014_ | [arxiv](https://arxiv.org/pdf/1501.00092) |  | _None_ | 
 ### Pose Estimation
 
 |Title|Date|Paper|Code|Labels|
@@ -213,6 +215,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | DeepMath - Deep Sequence Models for Premise Selection | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
 ### Regularization
