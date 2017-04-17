@@ -80,6 +80,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | _None_ | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | _None_ | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | _None_ | 
 ### Style Transfer
