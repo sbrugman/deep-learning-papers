@@ -88,6 +88,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Deep Photo Style Transfer | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  | _None_ | 
+| Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06868) | [github](https://github.com/xunhuang1995/AdaIN-style) | _None_ | 
 | A Learned Representation For Artistic Style | _24 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.07629) |  | _None_ | 
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
@@ -100,6 +101,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) |  | _None_ | 
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
+| Multi-Scale Context Aggregation by Dilated Convolutions | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07122) |  | _None_ | 
 | SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | _2 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.00561) |  | _None_ | 
 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 jul 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736) |  | _None_ | 
 ### Text (in the Wild) Recognition
@@ -184,6 +186,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Improved Training of Wasserstein GANs | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | _None_ | 
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _30 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | _None_ | 
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
+| Conditional Image Generation with PixelCNN Decoders | _16 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) |  | _None_ | 
 | Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
 ### Face Recognition
 
@@ -202,6 +205,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
+| Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
+| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
 | WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
 ## Other
 ### Unclassified
