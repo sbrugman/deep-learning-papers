@@ -114,13 +114,14 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) |  | _None_ | 
-| Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | _None_ | 
+| Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Hierarchical Object Detection with Deep Reinforcement Learning | _11 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.03718) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Xception: Deep Learning with Depthwise Separable Convolutions | _7 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.02357) |  | _None_ | 
+| Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition | _1 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf) |  | _None_ | 
 | Densely Connected Convolutional Networks | _25 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.06993) |  | _None_ | 
 | Residual Networks of Residual Networks: Multilevel Residual Networks | _9 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.02908) |  | _None_ | 
 | Context Matters: Refining Object Detection in Video with Recurrent Neural Networks | _15 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.04648) |  | _None_ | 
@@ -135,6 +136,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | _4 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.01497) |  | _None_ | 
 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | _6 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.01852) |  | _None_ | 
 | Deep Image: Scaling up Image Recognition | _13 jan 2015_ | [arxiv](https://arxiv.org/pdf/1501.02876) |  | _None_ | 
+| Rich feature hierarchies for accurate object detection and semantic segmentation | _11 nov 2013_ | [arxiv](https://arxiv.org/pdf/1311.2524) |  | _None_ | 
+| Selective Search for Object Recognition | _11 mar 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/selective-search-for-object-recognition.pdf) |  | _None_ | 
+| ImageNet Classification with Deep Convolutional Neural Networks | _3 dec 2012_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/imagenet-classification-with-deep-convolutional-neural-networks.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
 ### Logo Recognition
 
 |Title|Date|Paper|Code|Labels|
