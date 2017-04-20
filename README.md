@@ -63,6 +63,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Rationalizing Neural Predictions | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
+| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) |  | _None_ | 
 ### Translation
 
 |Title|Date|Paper|Code|Labels|
@@ -84,6 +85,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](http://www.davidqiu.com:8888/research/nature14236.pdf) |  | _None_ | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
@@ -120,7 +122,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
+| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
@@ -136,10 +139,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos | _9 apr 2016_ | [arxiv](https://arxiv.org/pdf/1604.02532) |  | _None_ | 
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | _23 feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.07261) |  | _None_ | 
 | Deep Residual Learning for Image Recognition | _10 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.03385) |  | _None_ | 
-| SSD: Single Shot MultiBox Detector | _8 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.02325) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| SSD: Single Shot MultiBox Detector | _8 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.02325) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | ParseNet: Looking Wider to See Better | _15 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.04579) |  | _None_ | 
-| You Only Look Once: Unified, Real-Time Object Detection | _8 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02640) |  | _None_ | 
-| Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | _4 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.01497) |  | _None_ | 
+| You Only Look Once: Unified, Real-Time Object Detection | _8 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02640) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
+| Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | _4 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.01497) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | _6 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.01852) |  | _None_ | 
 | Deep Image: Scaling up Image Recognition | _13 jan 2015_ | [arxiv](https://arxiv.org/pdf/1501.02876) |  | _None_ | 
 | Rich feature hierarchies for accurate object detection and semantic segmentation | _11 nov 2013_ | [arxiv](https://arxiv.org/pdf/1311.2524) |  | _None_ | 
