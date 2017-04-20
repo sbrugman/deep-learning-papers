@@ -63,7 +63,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Rationalizing Neural Predictions | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
-| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) |  | _None_ | 
+| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.pdf) |  | _None_ | 
 ### Translation
 
 |Title|Date|Paper|Code|Labels|
@@ -82,6 +82,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Beating Atari with Natural Language Guided Reinforcement Learning | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05539) |  | _None_ | 
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
