@@ -85,7 +85,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
-| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](http://www.davidqiu.com:8888/research/nature14236.pdf) |  | _None_ | 
+| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | _None_ | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
@@ -122,6 +122,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Learning Chained Deep Features and Classifiers for Cascade in Object Detection | _23 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07054) |  | _None_ | 
 | DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
