@@ -86,6 +86,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | _None_ | 
 | Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | _None_ | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
