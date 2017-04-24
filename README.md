@@ -19,7 +19,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.3. [Image Segmentation](#image-segmentation)
 
-	2.4. [Text (in the Wild) Recognition](#text-(in-the-wild)-recognition)
+	2.4. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
 	2.5. [Object Recognition](#object-recognition)
 
