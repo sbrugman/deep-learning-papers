@@ -21,21 +21,23 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.4. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
-	2.5. [Object Recognition](#object-recognition)
+	2.5. [Self-Driving Cars](#self-driving-cars)
 
-	2.6. [Logo Recognition](#logo-recognition)
+	2.6. [Object Recognition](#object-recognition)
 
-	2.7. [Super Resolution](#super-resolution)
+	2.7. [Logo Recognition](#logo-recognition)
 
-	2.8. [Pose Estimation](#pose-estimation)
+	2.8. [Super Resolution](#super-resolution)
 
-	2.9. [Image Captioning](#image-captioning)
+	2.9. [Pose Estimation](#pose-estimation)
 
-	2.10. [Image Compression](#image-compression)
+	2.10. [Image Captioning](#image-captioning)
 
-	2.11. [Image Synthesis](#image-synthesis)
+	2.11. [Image Compression](#image-compression)
 
-	2.12. [Face Recognition](#face-recognition)
+	2.12. [Image Synthesis](#image-synthesis)
+
+	2.13. [Face Recognition](#face-recognition)
 
 3. [Audio](#audio)
 
@@ -57,7 +59,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Syntactic Neural Model for General-Purpose Code Generation | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01696) |  | _None_ | 
+| RobustFill: Neural Program Learning under Noisy I/O | _21 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07469) |  | _None_ | 
 | DeepCoder: Learning to Write Programs | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01989) |  | _None_ | 
+| Neuro-Symbolic Program Synthesis | _6 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01855) |  | _None_ | 
 ### Sentiment Analysis
 
 |Title|Date|Paper|Code|Labels|
@@ -82,12 +86,13 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Beating Atari with Natural Language Guided Reinforcement Learning | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05539) |  | _None_ | 
+| Equivalence Between Policy Gradients and Soft Q-Learning | _21 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06440) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Beating Atari with Natural Language Guided Reinforcement Learning | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05539) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
-| Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | _None_ | 
-| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | _None_ | 
+| Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
@@ -120,13 +125,19 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Efficient Scene Text Localization and Recognition with Local Character Refinement | _14 apr 2015_ | [arxiv](https://arxiv.org/pdf/1504.03522) |  | _None_ | 
 | Reading Text in the Wild with Convolutional Neural Networks | _4 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.1842) |  | _None_ | 
 | Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition | _9 jun 2014_ | [arxiv](https://arxiv.org/pdf/1406.2227) |  | _None_ | 
+### Self-Driving Cars
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05519) |  | _None_ | 
+| End to End Learning for Self-Driving Cars | _25 apr 2016_ | [arxiv](https://arxiv.org/pdf/1604.07316) |  | _None_ | 
 ### Object Recognition
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Learning Chained Deep Features and Classifiers for Cascade in Object Detection | _23 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07054) |  | _None_ | 
-| DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
-| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg),![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
+| DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
+| YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | Feature Pyramid Networks for Object Detection | _9 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03144) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Speed/accuracy trade-offs for modern convolutional object detectors | _30 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.10012) |  | _None_ | 
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
