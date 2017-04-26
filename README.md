@@ -17,27 +17,29 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.2. [Style Transfer](#style-transfer)
 
-	2.3. [Image Segmentation](#image-segmentation)
+	2.3. [Tracking](#tracking)
 
-	2.4. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
+	2.4. [Image Segmentation](#image-segmentation)
 
-	2.5. [Self-Driving Cars](#self-driving-cars)
+	2.5. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
-	2.6. [Object Recognition](#object-recognition)
+	2.6. [Self-Driving Cars](#self-driving-cars)
 
-	2.7. [Logo Recognition](#logo-recognition)
+	2.7. [Object Recognition](#object-recognition)
 
-	2.8. [Super Resolution](#super-resolution)
+	2.8. [Logo Recognition](#logo-recognition)
 
-	2.9. [Pose Estimation](#pose-estimation)
+	2.9. [Super Resolution](#super-resolution)
 
-	2.10. [Image Captioning](#image-captioning)
+	2.10. [Pose Estimation](#pose-estimation)
 
-	2.11. [Image Compression](#image-compression)
+	2.11. [Image Captioning](#image-captioning)
 
-	2.12. [Image Synthesis](#image-synthesis)
+	2.12. [Image Compression](#image-compression)
 
-	2.13. [Face Recognition](#face-recognition)
+	2.13. [Image Synthesis](#image-synthesis)
+
+	2.14. [Face Recognition](#face-recognition)
 
 3. [Audio](#audio)
 
@@ -80,6 +82,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
+| Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 ## Visual
 ### Gaming
@@ -104,6 +107,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
 | A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) | _None_ | 
+### Tracking
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| No papers in this category. |||||
 ### Image Segmentation
 
 |Title|Date|Paper|Code|Labels|
