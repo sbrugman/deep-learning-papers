@@ -23,23 +23,25 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.5. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
-	2.6. [Self-Driving Cars](#self-driving-cars)
+	2.6. [Brain Computer Interfacing](#brain-computer-interfacing)
 
-	2.7. [Object Recognition](#object-recognition)
+	2.7. [Self-Driving Cars](#self-driving-cars)
 
-	2.8. [Logo Recognition](#logo-recognition)
+	2.8. [Object Recognition](#object-recognition)
 
-	2.9. [Super Resolution](#super-resolution)
+	2.9. [Logo Recognition](#logo-recognition)
 
-	2.10. [Pose Estimation](#pose-estimation)
+	2.10. [Super Resolution](#super-resolution)
 
-	2.11. [Image Captioning](#image-captioning)
+	2.11. [Pose Estimation](#pose-estimation)
 
-	2.12. [Image Compression](#image-compression)
+	2.12. [Image Captioning](#image-captioning)
 
-	2.13. [Image Synthesis](#image-synthesis)
+	2.13. [Image Compression](#image-compression)
 
-	2.14. [Face Recognition](#face-recognition)
+	2.14. [Image Synthesis](#image-synthesis)
+
+	2.15. [Face Recognition](#face-recognition)
 
 3. [Audio](#audio)
 
@@ -80,6 +82,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://openreview.net/pdf?id=SyK00v5xx) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
+| From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](http://proceedings.mlr.press/v37/kusnerb15.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
@@ -89,11 +93,13 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Phase-Functioned Neural Networks for Character Control | _1 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/phase-functioned-neural-networks-for-character-control.pdf) |  | _None_ | 
 | Equivalence Between Policy Gradients and Soft Q-Learning | _21 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06440) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Beating Atari with Natural Language Guided Reinforcement Learning | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05539) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
 | Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
@@ -134,6 +140,12 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Efficient Scene Text Localization and Recognition with Local Character Refinement | _14 apr 2015_ | [arxiv](https://arxiv.org/pdf/1504.03522) |  | _None_ | 
 | Reading Text in the Wild with Convolutional Neural Networks | _4 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.1842) |  | _None_ | 
 | Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition | _9 jun 2014_ | [arxiv](https://arxiv.org/pdf/1406.2227) |  | _None_ | 
+### Brain Computer Interfacing
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Encoding Voxels with Deep Learning | _2 dec 2015_ | [paper](http://www.jneurosci.org/content/jneuro/35/48/15769.full.pdf) |  | _None_ | 
+| Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream | _8 jul 2015_ | [paper](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf) |  | _None_ | 
 ### Self-Driving Cars
 
 |Title|Date|Paper|Code|Labels|
@@ -144,6 +156,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Introspective Classifier Learning: Empower Generatively | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07816) |  | _None_ | 
 | Learning Chained Deep Features and Classifiers for Cascade in Object Detection | _23 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07054) |  | _None_ | 
 | DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | YOLO9000: Better, Faster, Stronger | _25 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242) | [github](https://github.com/pjreddie/darknet) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
@@ -198,6 +211,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Detecting and Recognizing Human-Object Interactions | _24 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | _None_ | 
 | Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Generation and Comprehension of Unambiguous Object Descriptions | _7 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | _None_ | 
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | _17 nov 2014_ | [arxiv](https://arxiv.org/pdf/1411.4389) |  | _None_ | 
@@ -223,6 +237,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/accessorize-to-a-crime-real-and-stealthy-attacks-on-state-of-the-art-face-recognition.pdf) |  | _None_ | 
 | OpenFace: A general-purpose face recognition library with mobile applications | _1 jun 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/openface-a-general-purpose-face-recognition-library-with-mobile-applications.pdf) |  | _None_ | 
+| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 nov 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/emotion-recognition-in-the-wild-via-convolutional-neural-networks-and-mapped-binary-patterns.pdf) |  | _None_ | 
 | Deep Face Recognition | _7 sep 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/deep-face-recognition.pdf) |  | _None_ | 
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) |  | _None_ | 
 | Learning Robust Deep Face Representation | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | _None_ | 
@@ -236,6 +251,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
 | Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
+| Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) |  | _None_ | 
 | WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
 ## Other
 ### Unclassified
@@ -245,6 +261,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | DeepMath - Deep Sequence Models for Premise Selection | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
+| Long Short-Term Memory | _15 nov 1997_ | [paper](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf) |  | _None_ | 
 ### Regularization
 
 |Title|Date|Paper|Code|Labels|
