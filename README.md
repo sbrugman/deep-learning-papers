@@ -1,5 +1,5 @@
 # Deep Learning Papers by task
-Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled.
+Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled. For each paper there is a permanent link, which is either to Arxiv.org or to a mirror of the original paper in this repository.
 # Table of Contents
 1. [Text](#text)
 
@@ -261,7 +261,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | DeepMath - Deep Sequence Models for Premise Selection | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
-| Long Short-Term Memory | _15 nov 1997_ | [paper](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf) |  | _None_ | 
+| Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue | _16 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.04992) |  | _None_ | 
+| Long Short-Term Memory | _15 nov 1997_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/long-short-term-memory.pdf) |  | _None_ | 
 ### Regularization
 
 |Title|Date|Paper|Code|Labels|
