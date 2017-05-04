@@ -279,6 +279,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Equilibrated adaptive learning rates for non-convex optimization | _15 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.04390) |  | _None_ | 
 | Adam: A Method for Stochastic Optimization | _22 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6980) |  | _None_ | 
 | Deep learning with Elastic Averaging SGD | _20 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6651) |  | _None_ | 
 | ADADELTA: An Adaptive Learning Rate Method | _22 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.5701) |  | _None_ | 
