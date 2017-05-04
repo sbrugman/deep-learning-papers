@@ -71,7 +71,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Rationalizing Neural Predictions | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
-| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.pdf) |  | _None_ | 
+| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.pdf) |  | _None_ | 
 ### Translation
 
 |Title|Date|Paper|Code|Labels|
@@ -85,7 +85,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://openreview.net/pdf?id=SyK00v5xx) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
 | From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](http://proceedings.mlr.press/v37/kusnerb15.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
-| GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
+| GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 ## Visual
@@ -93,15 +93,15 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Phase-Functioned Neural Networks for Character Control | _1 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/phase-functioned-neural-networks-for-character-control.pdf) |  | _None_ | 
+| Phase-Functioned Neural Networks for Character Control | _1 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/phase-functioned-neural-networks-for-character-control.pdf) |  | _None_ | 
 | Equivalence Between Policy Gradients and Soft Q-Learning | _21 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06440) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Beating Atari with Natural Language Guided Reinforcement Learning | _18 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05539) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
-| DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
+| DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
 | Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
-| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
@@ -129,6 +129,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
 | Multi-Scale Context Aggregation by Dilated Convolutions | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07122) |  | _None_ | 
 | SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | _2 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.00561) |  | _None_ | 
+| U-Net: Convolutional Networks for Biomedical Image Segmentation | _18 may 2015_ | [arxiv](https://arxiv.org/pdf/1505.04597) |  | _None_ | 
 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 jul 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736) |  | _None_ | 
 ### Text (in the Wild) Recognition
 
@@ -166,7 +167,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Aggregated Residual Transformations for Deep Neural Networks | _16 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.05431) |  | _None_ | 
 | Hierarchical Object Detection with Deep Reinforcement Learning | _11 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.03718) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Xception: Deep Learning with Depthwise Separable Convolutions | _7 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.02357) |  | _None_ | 
-| Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition | _1 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf) |  | _None_ | 
+| Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition | _1 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/learning-to-make-better-mistakes-semantics-aware-visual-food-recognition.pdf) |  | _None_ | 
 | Densely Connected Convolutional Networks | _25 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.06993) |  | _None_ | 
 | Residual Networks of Residual Networks: Multilevel Residual Networks | _9 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.02908) |  | _None_ | 
 | Context Matters: Refining Object Detection in Video with Recurrent Neural Networks | _15 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.04648) |  | _None_ | 
@@ -182,8 +183,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | _6 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.01852) |  | _None_ | 
 | Deep Image: Scaling up Image Recognition | _13 jan 2015_ | [arxiv](https://arxiv.org/pdf/1501.02876) |  | _None_ | 
 | Rich feature hierarchies for accurate object detection and semantic segmentation | _11 nov 2013_ | [arxiv](https://arxiv.org/pdf/1311.2524) |  | _None_ | 
-| Selective Search for Object Recognition | _11 mar 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/selective-search-for-object-recognition.pdf) |  | _None_ | 
-| ImageNet Classification with Deep Convolutional Neural Networks | _3 dec 2012_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/imagenet-classification-with-deep-convolutional-neural-networks.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
+| Selective Search for Object Recognition | _11 mar 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/selective-search-for-object-recognition.pdf) |  | _None_ | 
+| ImageNet Classification with Deep Convolutional Neural Networks | _3 dec 2012_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/imagenet-classification-with-deep-convolutional-neural-networks.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
 ### Logo Recognition
 
 |Title|Date|Paper|Code|Labels|
@@ -235,13 +236,13 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/accessorize-to-a-crime-real-and-stealthy-attacks-on-state-of-the-art-face-recognition.pdf) |  | _None_ | 
-| OpenFace: A general-purpose face recognition library with mobile applications | _1 jun 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/openface-a-general-purpose-face-recognition-library-with-mobile-applications.pdf) |  | _None_ | 
-| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 nov 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/emotion-recognition-in-the-wild-via-convolutional-neural-networks-and-mapped-binary-patterns.pdf) |  | _None_ | 
-| Deep Face Recognition | _7 sep 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/deep-face-recognition.pdf) |  | _None_ | 
+| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 okt 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/accessorize-to-a-crime-real-and-stealthy-attacks-on-state-of-the-art-face-recognition.pdf) |  | _None_ | 
+| OpenFace: A general-purpose face recognition library with mobile applications | _1 jun 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/openface-a-general-purpose-face-recognition-library-with-mobile-applications.pdf) |  | _None_ | 
+| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 nov 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/emotion-recognition-in-the-wild-via-convolutional-neural-networks-and-mapped-binary-patterns.pdf) |  | _None_ | 
+| Deep Face Recognition | _7 sep 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deep-face-recognition.pdf) |  | _None_ | 
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) |  | _None_ | 
 | Learning Robust Deep Face Representation | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | _None_ | 
-| Facenet: A unified embedding for face recognition and clustering | _12 jun 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/facenet-a-unified-embedding-for-face-recognition-and-clustering.pdf) |  | _None_ | 
+| Facenet: A unified embedding for face recognition and clustering | _12 jun 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/facenet-a-unified-embedding-for-face-recognition-and-clustering.pdf) |  | _None_ | 
 | Multi-view Face Detection Using Deep Convolutional Neural Networks | _10 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) |  | _None_ | 
 ## Audio
 ### Audio Synthesis
@@ -262,7 +263,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | DeepMath - Deep Sequence Models for Premise Selection | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
 | Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue | _16 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.04992) |  | _None_ | 
-| Long Short-Term Memory | _15 nov 1997_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/long-short-term-memory.pdf) |  | _None_ | 
+| Long Short-Term Memory | _15 nov 1997_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/long-short-term-memory.pdf) |  | _None_ | 
 ### Regularization
 
 |Title|Date|Paper|Code|Labels|
@@ -284,4 +285,4 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Deep learning with Elastic Averaging SGD | _20 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6651) |  | _None_ | 
 | ADADELTA: An Adaptive Learning Rate Method | _22 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.5701) |  | _None_ | 
 | Advances in Optimizing Recurrent Networks | _4 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.0901) |  | _None_ | 
-| Efficient Backprop | _1 jul 1998_ | [paper](https://github.com/sbrugman/deep-learning-papers/blob/master/papers/efficient-backprop.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
+| Efficient Backprop | _1 jul 1998_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/efficient-backprop.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
