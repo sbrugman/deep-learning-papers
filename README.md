@@ -1,5 +1,5 @@
 # Deep Learning Papers by task
-Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled. For each paper there is a permanent link, which is either to Arxiv.org or to a mirror of the original paper in this repository.
+Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled. For each paper there is a permanent link, which is either to Arxiv.org or to a copy of the original paper in this repository.
 # Table of Contents
 1. [Text](#text)
 
@@ -66,6 +66,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | RobustFill: Neural Program Learning under Noisy I/O | _21 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07469) |  | _None_ | 
 | DeepCoder: Learning to Write Programs | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01989) |  | _None_ | 
 | Neuro-Symbolic Program Synthesis | _6 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01855) |  | _None_ | 
+| Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | _None_ | 
 ### Sentiment Analysis
 
 |Title|Date|Paper|Code|Labels|
