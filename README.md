@@ -126,7 +126,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | SfM-Net: Learning of Structure and Motion from Video | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804) |  | _None_ | 
 | Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) |  | _None_ | 
+| RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | _20 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.06612) | [github](https://github.com/guosheng/refinenet) | _None_ | 
+| Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) | [github](https://github.com/shelhamer/fcn.berkeleyvision.org) | _None_ | 
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
 | Multi-Scale Context Aggregation by Dilated Convolutions | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07122) |  | _None_ | 
 | SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | _2 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.00561) |  | _None_ | 
@@ -215,6 +216,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Detecting and Recognizing Human-Object Interactions | _24 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | _None_ | 
 | Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Temporal Tessellation: A Unified Approach for Video Analysis | _21 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06950) | [github](https://github.com/dot27/temporal-tessellation) | _None_ | 
 | Generation and Comprehension of Unambiguous Object Descriptions | _7 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | _None_ | 
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | _17 nov 2014_ | [arxiv](https://arxiv.org/pdf/1411.4389) |  | _None_ | 
 ### Image Compression
