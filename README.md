@@ -252,6 +252,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) |  | _None_ | 
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
 | Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
