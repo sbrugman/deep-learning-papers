@@ -110,6 +110,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Deep Photo Style Transfer | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  | _None_ | 
+| Multi-style Generative Network for Real-time Transfer | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06953) | [github](https://github.com/zhanghang1989/MSG-Net) | _None_ | 
 | Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06868) | [github](https://github.com/xunhuang1995/AdaIN-style) | _None_ | 
 | A Learned Representation For Artistic Style | _24 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.07629) |  | _None_ | 
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
