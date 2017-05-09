@@ -180,6 +180,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | _23 feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.07261) |  | _None_ | 
 | Deep Residual Learning for Image Recognition | _10 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.03385) |  | _None_ | 
 | SSD: Single Shot MultiBox Detector | _8 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.02325) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
+| Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07289) |  | _None_ | 
 | ParseNet: Looking Wider to See Better | _15 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.04579) |  | _None_ | 
 | You Only Look Once: Unified, Real-Time Object Detection | _8 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02640) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
 | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | _4 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.01497) |  | ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
