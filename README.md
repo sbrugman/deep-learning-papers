@@ -78,8 +78,10 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Convolutional Sequence to Sequence Learning | _9 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/convolutional-sequence-to-sequence-learning.pdf) | [github](https://github.com/facebookresearch/fairseq) | _None_ | 
 | Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
+| Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
