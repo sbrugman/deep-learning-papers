@@ -78,7 +78,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Convolutional Sequence to Sequence Learning | _9 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/convolutional-sequence-to-sequence-learning.pdf) | [github](https://github.com/facebookresearch/fairseq) | _None_ | 
+| Convolutional Sequence to Sequence Learning | _9 may 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/convolutional-sequence-to-sequence-learning.pdf) | [github](https://github.com/facebookresearch/fairseq) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
 | Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
@@ -86,12 +86,13 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://openreview.net/pdf?id=SyK00v5xx) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
+| A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
 | From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](http://proceedings.mlr.press/v37/kusnerb15.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
+| SimHash: Hash-based Similarity Detection | _13 dec 2007_ | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.7179&rep=rep1&type=pdf) |  | _None_ | 
 ## Visual
 ### Gaming
 
