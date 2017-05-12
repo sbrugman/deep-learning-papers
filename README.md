@@ -87,7 +87,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
-| From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](http://proceedings.mlr.press/v37/kusnerb15.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
+| From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/from-word-embeddings-to-document-distances.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
@@ -268,6 +268,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Learning to Fly by Crashing | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05588) |  | _None_ | 
 | Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
 | DeepMath - Deep Sequence Models for Premise Selection | _14 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04442) |  | _None_ | 
