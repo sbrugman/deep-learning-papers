@@ -87,9 +87,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Large Self-Annotated Corpus for Sarcasm | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05579) |  | _None_ | 
+| FastText.zip: Compressing text classification models | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03651) |  | _None_ | 
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
 | Enriching Word Vectors with Subword Information | _15 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606) |  | _None_ | 
 | From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/from-word-embeddings-to-document-distances.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
+| Bag of Tricks for Efficient Text Classification | _6 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.01759) |  | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
