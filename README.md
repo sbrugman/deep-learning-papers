@@ -96,6 +96,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | A Large Self-Annotated Corpus for Sarcasm | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05579) |  | _None_ | 
 | FastText.zip: Compressing text classification models | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03651) |  | _None_ | 
+| ConceptNet 5.5: An Open Multilingual Graph of General Knowledge | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03975) |  | _None_ | 
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
 | Enriching Word Vectors with Subword Information | _15 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606) |  | _None_ | 
 | From Word Embeddings To Document Distances | _6 jul 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/from-word-embeddings-to-document-distances.pdf) | [github](https://github.com/mkusner/wmd) | _None_ | 
