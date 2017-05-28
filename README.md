@@ -95,6 +95,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Large Self-Annotated Corpus for Sarcasm | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05579) |  | _None_ | 
+| ConceptNet at SemEval-2017 Task 2: Extending Word Embeddings with Multilingual Relational Knowledge | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03560) |  | _None_ | 
 | FastText.zip: Compressing text classification models | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03651) |  | _None_ | 
 | ConceptNet 5.5: An Open Multilingual Graph of General Knowledge | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03975) |  | _None_ | 
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
@@ -105,7 +106,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
-| SimHash: Hash-based Similarity Detection | _13 dec 2007_ | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.7179&rep=rep1&type=pdf) |  | _None_ | 
+| SimHash: Hash-based Similarity Detection | _13 dec 2007_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/simhash-hash-based-similarity-detection.pdf) |  | _None_ | 
 ## Visual
 ### Gaming
 

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+      
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head profile="http://www.w3.org/2005/11/profile http://a9.com/-/spec/opensearch/1.1/">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta property="og:image" content="/images/csx_logo_front.png" />
+   
+    <title>CiteSeerX &mdash; Document Not Found</title>
+  
+  
+  
+    
+  
+  
+  
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" />
+  
+  <link rel="search" title="CiteSeerX" type="application/opensearchdescription+xml" href="/search_plugins/citeseerx_general.xml;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" />
+  <link rel="search" title="CiteSeerX Author" type="application/opensearchdescription+xml" href="/search_plugins/citeseerx_author.xml;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" />
+  <link rel="search" title="CiteSeerX Title" type="application/opensearchdescription+xml" href="/search_plugins/citeseerx_title.xml;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" />
+    
+    
+	<link rel="alternate" type="application/atom+xml" title="CiteSeerX Search Results - Atom" href="/search;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654?" />
+	<link rel="alternate" type="application/rss+xml" title="CiteSeerX Search Results - RSS" href="/search;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654?" />
+
+	
+	<link type="text/css" rel="stylesheet" href="/css/main.css;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" />
+	<script type="text/javascript" src="/js/jquery-1.4.2.min.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+  <script type="text/javascript" src="/js/jquery-ui-1.8.custom.min.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/jquery.idTabs.min.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/metacart.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/topnav.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/citeseerx.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/correctionutils.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/checkboxes.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/ga.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	<script type="text/javascript" src="/js/s2button.js;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654"></script>
+	
+	
+</head>
+<body>
+	<div id="wrapper">
+  	
+
+
+
+<div id="topnav">
+  
+  <ul id="search_nav">
+    
+      <li class="active"><a href="#search_docs">Documents</a></li>
+      <li><a href="/#search_auth">Authors</a></li>
+      <li><a href="/#search_tables">Tables</a></li>
+      
+    
+    
+  </ul>
+  
+  
+  
+    
+    
+    
+    <ul id="toptools">
+  		
+        <li><a href="/myciteseer/login;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654">Log in</a></li>
+        <li><a href="/mcsutils/newAccount;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654">Sign up</a></li>
+      
+        <li><a href="/metacart;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654">MetaCart</a></li>
+        <li><a href="http://www.givenow.psu.edu/CiteseerxFund"><font color="#045FB4">Donate</font></a></li>
+    </ul>
+  
+</div>
+
+	  <div id="header">
+			<h1 id="title"><a href="/;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" title="CiteSeerX"><img src="/images/csx_logo.png;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" alt="CiteSeerX logo" height="50%" width="50%"/></a></h1>
+		</div>
+
+  <div id="center_content" class="clearfix"> <!-- Contains header div -->
+    <div id="primary_content">
+      <div id="main_content">
+        <div class="inside pushdown">
+          <div class="error">
+            <h1>No document with DOI "10.1.1.473.7179"</h1>
+            <h3>The supplied document identifier does not match<br/>
+                any document in our repository.</h3>
+          </div>
+        </div>
+      </div> <!-- End main_content -->
+    </div> <!-- End primary_content -->
+  </div> <!-- End center-content -->
+  <div id="footer">
+  	<div id="sponsors">
+        
+        Powered by:
+  	<a href="http://lucene.apache.org/solr/"><img src="/images/solrlogo1.png;jsessionid=DAD3CAD2C99F5D755848A9FC7F73B654" alt="Apache Solr" height="8%" width="8%"/></a>
+  	</div>
+    <ul class="links">
+      <li><a href="http://csxstatic.ist.psu.edu/about" target="_blank">About CiteSeerX</a></li>
+      <li><a href="http://csxcrawlweb01.ist.psu.edu/submit_pub/" target="_blank">Submit and Index Documents</a></li>
+      <li><a href="http://csxstatic.ist.psu.edu/privacy" target="_blank">Privacy Policy</a></li>
+      <li><a href="http://csxstatic.ist.psu.edu/help" target="_blank">Help</a></li>
+      <li><a href="http://csxstatic.ist.psu.edu/about/data" target="_blank">Data</a></li>      
+      <li><a href="https://github.com/SeerLabs/CiteSeerX" target="_blank">Source</a></li>      
+      <li><a href="http://csxstatic.ist.psu.edu/contact" target="_blank">Contact Us</a></li>
+    </ul>
+  	<p class="info">Developed at and hosted by <a href="http://ist.psu.edu">The College of Information Sciences and Technology</a></p>
+  	<p>&copy; 2007-2016 <a href="http://www.psu.edu">The Pennsylvania State University</a></p>
+  </div>
+</div> 
+
+</body>
+</html>
