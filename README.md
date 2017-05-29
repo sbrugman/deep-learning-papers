@@ -96,6 +96,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | A Large Self-Annotated Corpus for Sarcasm | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05579) |  | _None_ | 
 | ConceptNet at SemEval-2017 Task 2: Extending Word Embeddings with Multilingual Relational Knowledge | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03560) |  | _None_ | 
+| Bilateral Multi-Perspective Matching for Natural Language Sentences | _13 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.03814) |  | _None_ | 
 | FastText.zip: Compressing text classification models | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03651) |  | _None_ | 
 | ConceptNet 5.5: An Open Multilingual Graph of General Knowledge | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03975) |  | _None_ | 
 | A Simple but Tough-to-Beat Baseline for Sentence Embeddings | _4 nov 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings.pdf) | [github](https://github.com/YingyuLiang/SIF) | _None_ | 
