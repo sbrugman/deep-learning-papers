@@ -104,6 +104,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Bag of Tricks for Efficient Text Classification | _6 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.01759) |  | _None_ | 
 | Character-level Convolutional Networks for Text Classification | _4 sep 2015_ | [arxiv](https://arxiv.org/pdf/1509.01626) |  | _None_ | 
 | GloVe: Global Vectors for Word Representation | _25 may 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/glove-global-vectors-for-word-representation.pdf) | [github](https://github.com/stanfordnlp/GloVe) | _None_ | 
+| Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks | _28 feb 2015_ | [arxiv](https://arxiv.org/pdf/1503.00075) |  | _None_ | 
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 | SimHash: Hash-based Similarity Detection | _13 dec 2007_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/simhash-hash-based-similarity-detection.pdf) |  | _None_ | 
