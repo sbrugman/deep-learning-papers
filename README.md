@@ -167,8 +167,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG | _15 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.05051) |  | _None_ | 
 | Encoding Voxels with Deep Learning | _2 dec 2015_ | [paper](http://www.jneurosci.org/content/jneuro/35/48/15769.full.pdf) |  | _None_ | 
-| Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream | _8 jul 2015_ | [paper](http://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf) |  | _None_ | 
+| Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream | _8 jul 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deep-neural-networks-reveal-a-gradient-in-the-complexity-of-neural-representations-across-the-ventral-stream.pdf) |  | _None_ | 
 ### Self-Driving Cars
 
 |Title|Date|Paper|Code|Labels|
