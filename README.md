@@ -91,6 +91,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | A Deep Reinforced Model for Abstractive Summarization | _11 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | _None_ | 
 | Get To The Point: Summarization with Pointer-Generator Networks | _14 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | _None_ | 
+| SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | _None_ | 
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
