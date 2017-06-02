@@ -145,6 +145,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Dilated Residual Networks | _22 jul 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/dilated-residual-networks.pdf) |  | _None_ | 
 | SfM-Net: Learning of Structure and Motion from Video | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804) |  | _None_ | 
 | Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
