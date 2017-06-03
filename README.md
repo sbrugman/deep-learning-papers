@@ -150,6 +150,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | _20 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.06612) | [github](https://github.com/guosheng/refinenet) | _None_ | 
+| DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | _2 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.00915) |  | _None_ | 
 | Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) | [github](https://github.com/shelhamer/fcn.berkeleyvision.org) | _None_ | 
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
 | Multi-Scale Context Aggregation by Dilated Convolutions | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07122) |  | _None_ | 
@@ -280,6 +281,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) |  | _None_ | 
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
+| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
 | Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
 | Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) |  | _None_ | 
 | WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
