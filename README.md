@@ -156,6 +156,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Multi-Scale Context Aggregation by Dilated Convolutions | _23 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.07122) |  | _None_ | 
 | SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | _2 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.00561) |  | _None_ | 
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | _18 may 2015_ | [arxiv](https://arxiv.org/pdf/1505.04597) |  | _None_ | 
+| Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs | _22 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.7062) |  | _None_ | 
 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 jul 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736) |  | _None_ | 
 ### Text (in the Wild) Recognition
 
