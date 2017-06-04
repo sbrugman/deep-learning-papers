@@ -150,6 +150,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | _20 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.06612) | [github](https://github.com/guosheng/refinenet) | _None_ | 
+| UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory | _7 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.02132) |  | _None_ | 
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | _2 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.00915) |  | _None_ | 
 | Fully Convolutional Networks for Semantic Segmentation | _20 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211) | [github](https://github.com/shelhamer/fcn.berkeleyvision.org) | _None_ | 
 | Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412) |  | _None_ | 
@@ -237,6 +238,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Forecasting Human Dynamics from Static Images | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03432) |  | _None_ | 
 | Fast Single Shot Detection and Pose Estimation | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05590) |  | _None_ | 
+| Flowing ConvNets for Human Pose Estimation in Videos | _9 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02897) |  | _None_ | 
 ### Image Captioning
 
 |Title|Date|Paper|Code|Labels|
