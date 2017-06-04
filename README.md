@@ -238,6 +238,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Forecasting Human Dynamics from Static Images | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03432) |  | _None_ | 
 | Fast Single Shot Detection and Pose Estimation | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05590) |  | _None_ | 
+| Convolutional Pose Machines | _30 jan 2016_ | [arxiv](https://arxiv.org/pdf/1602.00134) |  | _None_ | 
 | Flowing ConvNets for Human Pose Estimation in Videos | _9 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02897) |  | _None_ | 
 ### Image Captioning
 
@@ -293,6 +294,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Deep Complex Networks | _27 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.09792) | [github](https://github.com/ChihebTrabelsi/deep_complex_networks) | _None_ | 
 | Learning to Fly by Crashing | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05588) |  | _None_ | 
 | Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
 | Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | _18 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.05755) |  | _None_ | 
