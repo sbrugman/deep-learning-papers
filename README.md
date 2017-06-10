@@ -1,65 +1,69 @@
 # Deep Learning Papers by task
 Papers about deep learning ordered by task, date. Current state-of-the-art papers and papers useful for getting started are labelled. For each paper there is a permanent link, which is either to Arxiv.org or to a copy of the original paper in this repository.
 # Table of Contents
-1. [Text](#text)
+1. [Code](#code)
 
 	1.1. [Code Generation](#code-generation)
 
-	1.2. [Sentiment Analysis](#sentiment-analysis)
+	1.2. [Malware Detection](#malware-detection)
 
-	1.3. [Translation](#translation)
+2. [Text](#text)
 
-	1.4. [Summarization](#summarization)
+	2.1. [Summarization](#summarization)
 
-	1.5. [Classification](#classification)
+	2.2. [Sentiment Analysis](#sentiment-analysis)
 
-2. [Visual](#visual)
+	2.3. [Translation](#translation)
 
-	2.1. [Gaming](#gaming)
+	2.4. [Classification](#classification)
 
-	2.2. [Style Transfer](#style-transfer)
+3. [Visual](#visual)
 
-	2.3. [Tracking](#tracking)
+	3.1. [Gaming](#gaming)
 
-	2.4. [Image Segmentation](#image-segmentation)
+	3.2. [Style Transfer](#style-transfer)
 
-	2.5. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
+	3.3. [Tracking](#tracking)
 
-	2.6. [Brain Computer Interfacing](#brain-computer-interfacing)
+	3.4. [Image Segmentation](#image-segmentation)
 
-	2.7. [Self-Driving Cars](#self-driving-cars)
+	3.5. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
-	2.8. [Object Recognition](#object-recognition)
+	3.6. [Brain Computer Interfacing](#brain-computer-interfacing)
 
-	2.9. [Logo Recognition](#logo-recognition)
+	3.7. [Self-Driving Cars](#self-driving-cars)
 
-	2.10. [Super Resolution](#super-resolution)
+	3.8. [Object Recognition](#object-recognition)
 
-	2.11. [Pose Estimation](#pose-estimation)
+	3.9. [Logo Recognition](#logo-recognition)
 
-	2.12. [Image Captioning](#image-captioning)
+	3.10. [Super Resolution](#super-resolution)
 
-	2.13. [Image Compression](#image-compression)
+	3.11. [Pose Estimation](#pose-estimation)
 
-	2.14. [Image Synthesis](#image-synthesis)
+	3.12. [Image Captioning](#image-captioning)
 
-	2.15. [Face Recognition](#face-recognition)
+	3.13. [Image Compression](#image-compression)
 
-3. [Audio](#audio)
+	3.14. [Image Synthesis](#image-synthesis)
 
-	3.1. [Audio Synthesis](#audio-synthesis)
+	3.15. [Face Recognition](#face-recognition)
 
-4. [Other](#other)
+4. [Audio](#audio)
 
-	4.1. [Unclassified](#unclassified)
+	4.1. [Audio Synthesis](#audio-synthesis)
 
-	4.2. [Regularization](#regularization)
+5. [Other](#other)
 
-	4.3. [Neural Network Compression](#neural-network-compression)
+	5.1. [Unclassified](#unclassified)
 
-	4.4. [Optimizers](#optimizers)
+	5.2. [Regularization](#regularization)
 
-## Text
+	5.3. [Neural Network Compression](#neural-network-compression)
+
+	5.4. [Optimizers](#optimizers)
+
+## Code
 ### Code Generation
 
 |Title|Date|Paper|Code|Labels|
@@ -67,9 +71,24 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07734) |  | _None_ | 
 | A Syntactic Neural Model for General-Purpose Code Generation | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01696) |  | _None_ | 
 | RobustFill: Neural Program Learning under Noisy I/O | _21 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07469) |  | _None_ | 
+| DeepFix: Fixing Common C Language Errors by Deep Learning | _12 feb 2017_ | [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14603/13921) |  | _None_ | 
 | DeepCoder: Learning to Write Programs | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01989) |  | _None_ | 
 | Neuro-Symbolic Program Synthesis | _6 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01855) |  | _None_ | 
 | Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | _None_ | 
+### Malware Detection
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Deep Android Malware Detection | _22 mar 2016_ | [paper](http://pure.qub.ac.uk/portal/files/122380314/sig_camera_ready.pdf) | [github](https://github.com/niallmcl/Deep-Android-Malware-Detection) | _None_ | 
+| Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://pdfs.semanticscholar.org/0cf4/b41ef5371bed73214bb67a0e12829f0df220.pdf) | [github](https://github.com/pjlantz/droidbox) | _None_ | 
+## Text
+### Summarization
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| A Deep Reinforced Model for Abstractive Summarization | _11 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | _None_ | 
+| Get To The Point: Summarization with Pointer-Generator Networks | _14 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | _None_ | 
+| SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | _None_ | 
 ### Sentiment Analysis
 
 |Title|Date|Paper|Code|Labels|
@@ -85,13 +104,6 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Convolutional Encoder Model for Neural Machine Translation | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | _None_ | 
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
 | Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
-### Summarization
-
-|Title|Date|Paper|Code|Labels|
-|---|---|---|---|---|
-| A Deep Reinforced Model for Abstractive Summarization | _11 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | _None_ | 
-| Get To The Point: Summarization with Pointer-Generator Networks | _14 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | _None_ | 
-| SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | _None_ | 
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
@@ -294,6 +306,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| A simple neural network module for relational reasoning | _5 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.01427) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Deep Complex Networks | _27 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.09792) | [github](https://github.com/ChihebTrabelsi/deep_complex_networks) | _None_ | 
 | Learning to Fly by Crashing | _19 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.05588) |  | _None_ | 
 | Who Said What: Modeling Individual Labelers Improves Classification | _26 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.08774) |  | _None_ | 
@@ -305,6 +318,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Concrete Dropout | _22 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.07832) | [github](https://github.com/yaringal/ConcreteDropout) | _None_ | 
 | Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | _6 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02142) |  | _None_ | 
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | _11 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167) |  | _None_ | 
 ### Neural Network Compression
