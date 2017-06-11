@@ -79,8 +79,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Deep Android Malware Detection | _22 mar 2016_ | [paper](http://pure.qub.ac.uk/portal/files/122380314/sig_camera_ready.pdf) | [github](https://github.com/niallmcl/Deep-Android-Malware-Detection) | _None_ | 
-| Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://pdfs.semanticscholar.org/0cf4/b41ef5371bed73214bb67a0e12829f0df220.pdf) | [github](https://github.com/pjlantz/droidbox) | _None_ | 
+| Deep Android Malware Detection | _22 mar 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deep-android-malware-detection.pdf) | [github](https://github.com/niallmcl/Deep-Android-Malware-Detection) | _None_ | 
+| Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/droid-sec-deep-learning-in-android-malware-detection.pdf) | [github](https://github.com/pjlantz/droidbox) | _None_ | 
 ## Text
 ### Summarization
 
