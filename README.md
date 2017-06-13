@@ -23,31 +23,33 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	3.2. [Style Transfer](#style-transfer)
 
-	3.3. [Tracking](#tracking)
+	3.3. [Object Tracking](#object-tracking)
 
-	3.4. [Image Segmentation](#image-segmentation)
+	3.4. [Visual Question Answering](#visual-question-answering)
 
-	3.5. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
+	3.5. [Image Segmentation](#image-segmentation)
 
-	3.6. [Brain Computer Interfacing](#brain-computer-interfacing)
+	3.6. [Text (in the Wild) Recognition](#text-in-the-wild-recognition)
 
-	3.7. [Self-Driving Cars](#self-driving-cars)
+	3.7. [Brain Computer Interfacing](#brain-computer-interfacing)
 
-	3.8. [Object Recognition](#object-recognition)
+	3.8. [Self-Driving Cars](#self-driving-cars)
 
-	3.9. [Logo Recognition](#logo-recognition)
+	3.9. [Object Recognition](#object-recognition)
 
-	3.10. [Super Resolution](#super-resolution)
+	3.10. [Logo Recognition](#logo-recognition)
 
-	3.11. [Pose Estimation](#pose-estimation)
+	3.11. [Super Resolution](#super-resolution)
 
-	3.12. [Image Captioning](#image-captioning)
+	3.12. [Pose Estimation](#pose-estimation)
 
-	3.13. [Image Compression](#image-compression)
+	3.13. [Image Captioning](#image-captioning)
 
-	3.14. [Image Synthesis](#image-synthesis)
+	3.14. [Image Compression](#image-compression)
 
-	3.15. [Face Recognition](#face-recognition)
+	3.15. [Image Synthesis](#image-synthesis)
+
+	3.16. [Face Recognition](#face-recognition)
 
 4. [Audio](#audio)
 
@@ -148,11 +150,16 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
 | A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) | _None_ | 
-### Tracking
+### Object Tracking
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | End-to-end representation learning for Correlation Filter based tracking | _20 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06036) | [github](https://github.com/bertinetto/cfnet) | _None_ | 
+### Visual Question Answering
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| VQA: Visual Question Answering | _3 may 2015_ | [arxiv](https://arxiv.org/pdf/1505.00468) |  | _None_ | 
 ### Image Segmentation
 
 |Title|Date|Paper|Code|Labels|
