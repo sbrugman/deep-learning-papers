@@ -339,6 +339,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour | _8 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.02677) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Equilibrated adaptive learning rates for non-convex optimization | _15 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.04390) |  | _None_ | 
 | Adam: A Method for Stochastic Optimization | _22 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6980) |  | _None_ | 
 | Deep learning with Elastic Averaging SGD | _20 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.6651) |  | _None_ | 
