@@ -15,7 +15,9 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.3. [Translation](#translation)
 
-	2.4. [Classification](#classification)
+	2.4. [Question Answering](#question-answering)
+
+	2.5. [Classification](#classification)
 
 3. [Visual](#visual)
 
@@ -107,6 +109,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Convolutional Encoder Model for Neural Machine Translation | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | _None_ | 
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
 | Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
+### Question Answering
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| No papers in this category. |||||
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
@@ -137,6 +144,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Playing FPS Games with Deep Reinforcement Learning | _18 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05521) |  | _None_ | 
 | DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
 | Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
@@ -305,8 +313,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) |  | _None_ | 
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
-| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
-| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) |  | _None_ | 
+| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | [github](https://github.com/Kyubyong/tacotron) | _None_ | 
 | Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) |  | _None_ | 
 | WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
 ## Other
