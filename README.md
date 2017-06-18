@@ -144,6 +144,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning from Demonstrations for Real World Reinforcement Learning | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03732) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | FeUdal Networks for Hierarchical Reinforcement Learning | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01161) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Overcoming catastrophic forgetting in neural networks | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00796) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Playing Doom with SLAM-Augmented Deep Reinforcement Learning | _1 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00380) |  | _None_ | 
 | Playing FPS Games with Deep Reinforcement Learning | _18 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05521) |  | _None_ | 
 | DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
 | Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
