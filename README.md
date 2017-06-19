@@ -294,6 +294,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
 | Conditional Image Generation with PixelCNN Decoders | _16 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) |  | _None_ | 
 | Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
+| Generative Adversarial Networks | _10 jun 2014_ | [arxiv](https://arxiv.org/pdf/1406.2661) |  | _None_ | 
 ### Face Recognition
 
 |Title|Date|Paper|Code|Labels|
