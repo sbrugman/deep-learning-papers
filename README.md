@@ -148,6 +148,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Playing FPS Games with Deep Reinforcement Learning | _18 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05521) |  | _None_ | 
 | DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess | _16 aug 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deepchess-end-to-end-deep-neural-network-for-automatic-learning-in-chess.pdf) |  | _None_ | 
 | Dueling Network Architectures for Deep Reinforcement Learning | _20 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.06581) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Prioritized Experience Replay | _18 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.05952) |  | _None_ | 
 | Human-level control through deep reinforcement learning | _26 feb 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/human-level-control-through-deep-reinforcement-learning.pdf) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
