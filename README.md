@@ -337,6 +337,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Self-Normalizing Neural Networks | _8 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.02515) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Concrete Dropout | _22 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.07832) | [github](https://github.com/yaringal/ConcreteDropout) | _None_ | 
 | Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | _6 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.02142) |  | _None_ | 
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | _11 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167) |  | _None_ | 
