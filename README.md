@@ -293,6 +293,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | [github](https://github.com/carpedm20/BEGAN-tensorflow) | _None_ | 
 | Improved Training of Wasserstein GANs | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | _None_ | 
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _30 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | _None_ | 
+| Wasserstein GAN | _26 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.07875) |  | _None_ | 
 | RenderGAN: Generating Realistic Labeled Data | _4 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | _None_ | 
 | Conditional Image Generation with PixelCNN Decoders | _16 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) |  | _None_ | 
 | Pixel Recurrent Neural Networks | _25 jan 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | _None_ | 
