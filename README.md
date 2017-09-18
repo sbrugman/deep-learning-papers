@@ -217,6 +217,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Focal Loss for Dense Object Detection | _7 aug 2017_ | [arxiv](https://arxiv.org/pdf/1708.02002) |  | _None_ | 
 | Introspective Classifier Learning: Empower Generatively | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07816) |  | _None_ | 
 | Learning Chained Deep Features and Classifiers for Cascade in Object Detection | _23 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07054) |  | _None_ | 
 | DSSD : Deconvolutional Single Shot Detector | _23 jan 2017_ | [arxiv](https://arxiv.org/pdf/1701.06659) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) ![region-proposals](https://img.shields.io/badge/label-Region--Proposals-yellow.svg) | 
