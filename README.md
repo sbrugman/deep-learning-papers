@@ -11,13 +11,15 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	2.1. [Summarization](#summarization)
 
-	2.2. [Sentiment Analysis](#sentiment-analysis)
+	2.2. [Classification](#classification)
 
-	2.3. [Translation](#translation)
+	2.3. [Question Answering](#question-answering)
 
-	2.4. [Question Answering](#question-answering)
+	2.4. [Sentiment Analysis](#sentiment-analysis)
 
-	2.5. [Classification](#classification)
+	2.5. [Translation](#translation)
+
+	2.6. [Chatbots](#chatbots)
 
 3. [Visual](#visual)
 
@@ -93,27 +95,6 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Deep Reinforced Model for Abstractive Summarization | _11 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | _None_ | 
 | Get To The Point: Summarization with Pointer-Generator Networks | _14 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | _None_ | 
 | SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | _None_ | 
-### Sentiment Analysis
-
-|Title|Date|Paper|Code|Labels|
-|---|---|---|---|---|
-| Rationalizing Neural Predictions | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
-| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.pdf) |  | _None_ | 
-### Translation
-
-|Title|Date|Paper|Code|Labels|
-|---|---|---|---|---|
-| Attention Is All You Need | _12 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.03762) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Convolutional Sequence to Sequence Learning | _8 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.03122) | [github](https://github.com/facebookresearch/fairseq) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
-| Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
-| A Convolutional Encoder Model for Neural Machine Translation | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | _None_ | 
-| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
-| Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
-### Question Answering
-
-|Title|Date|Paper|Code|Labels|
-|---|---|---|---|---|
-| IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [github](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
@@ -133,6 +114,32 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Distributed Representations of Sentences and Documents | _16 may 2014_ | [arxiv](https://arxiv.org/pdf/1405.4053) |  | _None_ | 
 | Efficient Estimation of Word Representations in Vector Space | _16 jan 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781) |  | _None_ | 
 | SimHash: Hash-based Similarity Detection | _13 dec 2007_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/simhash-hash-based-similarity-detection.pdf) |  | _None_ | 
+### Question Answering
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [github](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+### Sentiment Analysis
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Rationalizing Neural Predictions | _13 jun 2016_ | [arxiv](https://arxiv.org/pdf/1606.04155) |  | _None_ | 
+| Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | _18 okt 2013_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.pdf) |  | _None_ | 
+### Translation
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Attention Is All You Need | _12 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.03762) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Convolutional Sequence to Sequence Learning | _8 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.03122) | [github](https://github.com/facebookresearch/fairseq) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
+| Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | _None_ | 
+| A Convolutional Encoder Model for Neural Machine Translation | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | _None_ | 
+| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _26 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | _None_ | 
+| Neural Machine Translation by Jointly Learning to Align and Translate | _1 sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  | _None_ | 
+### Chatbots
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| No papers in this category. |||||
 ## Visual
 ### Gaming
 
@@ -280,6 +287,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Temporal Tessellation: A Unified Approach for Video Analysis | _21 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06950) | [github](https://github.com/dot27/temporal-tessellation) | _None_ | 
 | Generation and Comprehension of Unambiguous Object Descriptions | _7 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | _None_ | 
+| Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | _10 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.03044) |  | _None_ | 
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | _17 nov 2014_ | [arxiv](https://arxiv.org/pdf/1411.4389) |  | _None_ | 
 ### Image Compression
 
