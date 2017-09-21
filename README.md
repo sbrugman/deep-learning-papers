@@ -285,6 +285,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Detecting and Recognizing Human-Object Interactions | _24 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | _None_ | 
 | Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
+| Towards Diverse and Natural Image Descriptions via a Conditional GAN | _17 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06029) |  | _None_ | 
 | Temporal Tessellation: A Unified Approach for Video Analysis | _21 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06950) | [github](https://github.com/dot27/temporal-tessellation) | _None_ | 
 | Self-critical Sequence Training for Image Captioning | _2 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.00563) |  | _None_ | 
 | Generation and Comprehension of Unambiguous Object Descriptions | _7 nov 2015_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | _None_ | 
