@@ -283,6 +283,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Actor-Critic Sequence Training for Image Captioning | _29 jun 2017_ | [arxiv](https://arxiv.org/pdf/1706.09601) |  | _None_ | 
 | Detecting and Recognizing Human-Object Interactions | _24 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | _None_ | 
 | Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 | Towards Diverse and Natural Image Descriptions via a Conditional GAN | _17 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06029) |  | _None_ | 
