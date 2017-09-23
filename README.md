@@ -358,6 +358,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure | _15 aug 2016_ | [arxiv](https://arxiv.org/pdf/1608.04337) |  | _None_ | 
 | SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and &lt;0.5MB model size | _24 feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.07360) |  | _None_ | 
 | Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding | _1 okt 2015_ | [arxiv](https://arxiv.org/pdf/1510.00149) |  | _None_ | 
 ### Optimizers
