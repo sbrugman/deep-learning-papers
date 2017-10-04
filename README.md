@@ -5,21 +5,25 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	1.1. [Code Generation](#code-generation)
 
-	1.2. [Malware Detection](#malware-detection)
+	1.2. [Malware Detection/Security](#malware-detection/security)
 
 2. [Text](#text)
 
 	2.1. [Summarization](#summarization)
 
-	2.2. [Classification](#classification)
+	2.2. [Taskbots](#taskbots)
 
-	2.3. [Question Answering](#question-answering)
+	2.3. [Classification](#classification)
 
-	2.4. [Sentiment Analysis](#sentiment-analysis)
+	2.4. [Question Answering](#question-answering)
 
-	2.5. [Translation](#translation)
+	2.5. [Sentiment Analysis](#sentiment-analysis)
 
-	2.6. [Chatbots](#chatbots)
+	2.6. [Translation](#translation)
+
+	2.7. [Chatbots](#chatbots)
+
+	2.8. [Reasoning](#reasoning)
 
 3. [Visual](#visual)
 
@@ -81,7 +85,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | DeepCoder: Learning to Write Programs | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01989) |  | _None_ | 
 | Neuro-Symbolic Program Synthesis | _6 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01855) |  | _None_ | 
 | Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | _None_ | 
-### Malware Detection
+### Malware Detection/Security
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
@@ -95,6 +99,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | A Deep Reinforced Model for Abstractive Summarization | _11 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | _None_ | 
 | Get To The Point: Summarization with Pointer-Generator Networks | _14 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | _None_ | 
 | SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | _None_ | 
+### Taskbots
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| No papers in this category. |||||
 ### Classification
 
 |Title|Date|Paper|Code|Labels|
@@ -140,6 +149,11 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Deep Reinforcement Learning Chatbot | _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | 
+### Reasoning
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| No papers in this category. |||||
 ## Visual
 ### Gaming
 
@@ -185,6 +199,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|---|
 | Dilated Residual Networks | _22 jul 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/dilated-residual-networks.pdf) |  | _None_ | 
 | SfM-Net: Learning of Structure and Motion from Video | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804) |  | _None_ | 
+| Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network | _28 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.09695) |  | _None_ | 
 | Mask R-CNN | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06870) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | Learning Features by Watching Objects Move | _19 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.06370) |  | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | 
 | RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | _20 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.06612) | [github](https://github.com/guosheng/refinenet) | _None_ | 
