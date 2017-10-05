@@ -89,6 +89,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| PassGAN: A Deep Learning Approach for Password Guessing | _1 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.00440) |  | _None_ | 
 | Deep Android Malware Detection | _22 mar 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deep-android-malware-detection.pdf) | [github](https://github.com/niallmcl/Deep-Android-Malware-Detection) | _None_ | 
 | Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/droid-sec-deep-learning-in-android-malware-detection.pdf) | [github](https://github.com/pjlantz/droidbox) | _None_ | 
 ## Text
