@@ -150,6 +150,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | A Deep Reinforcement Learning Chatbot | _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | 
+| A Neural Conversational Model | _19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869) | [github](https://github.com/inikdom/neural-chatbot) | _None_ | 
 ### Reasoning
 
 |Title|Date|Paper|Code|Labels|
