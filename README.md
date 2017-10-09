@@ -156,7 +156,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| No papers in this category. |||||
+| Tracking the World State with Recurrent Entity Networks | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03969) |  | _None_ | 
 ## Visual
 ### Gaming
 
