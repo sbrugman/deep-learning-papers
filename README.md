@@ -78,6 +78,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
+| Neural Program Synthesis with Priority Queue Training | _10 jan 2018_ | [arxiv](https://arxiv.org/abs/1801.03526) |  | _None_ | 
 | DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07734) |  | _None_ | 
 | A Syntactic Neural Model for General-Purpose Code Generation | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01696) |  | _None_ | 
 | RobustFill: Neural Program Learning under Noisy I/O | _21 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07469) |  | _None_ | 
