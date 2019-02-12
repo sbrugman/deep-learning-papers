@@ -403,7 +403,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Advances in Optimizing Recurrent Networks | _4 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.0901) |  | _None_ | 
 | Efficient Backprop | _1 jul 1998_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/efficient-backprop.pdf) |  | ![getting-started](https://img.shields.io/badge/label-Getting--started-blue.svg) | 
 
-## A note on arXov
+## A note on arXiv
 
 arXiv provides the world with access to the newest scientific developments.
 Open Access has a myriad of benefits, in particular, it allows science to be more efficient.
