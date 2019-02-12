@@ -5,7 +5,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 	1.1. [Code Generation](#code-generation)
 
-	1.2. [Malware Detection/Security](#malware-detection/security)
+	1.2. [Malware Detection and Security](#malware-detection-and-security)
 
 2. [Text](#text)
 
@@ -58,6 +58,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 	3.15. [Image Synthesis](#image-synthesis)
 
 	3.16. [Face Recognition](#face-recognition)
+	
+	3.17. [Image Composition](#image-composition)
 
 4. [Audio](#audio)
 
@@ -85,7 +87,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | DeepCoder: Learning to Write Programs | _7 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01989) |  | _None_ | 
 | Neuro-Symbolic Program Synthesis | _6 nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.01855) |  | _None_ | 
 | Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | _None_ | 
-### Malware Detection/Security
+### Malware Detection and Security
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
@@ -340,6 +342,16 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Learning Robust Deep Face Representation | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | _None_ | 
 | Facenet: A unified embedding for face recognition and clustering | _12 jun 2015_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/facenet-a-unified-embedding-for-face-recognition-and-clustering.pdf) |  | _None_ | 
 | Multi-view Face Detection Using Deep Convolutional Neural Networks | _10 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) |  | _None_ | 
+
+### Image Composition
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Auto-Retoucher(ART) — A Framework for Background Replacement and Foreground Adjustment | _13 jan 2019_ | [arxiv](https://arxiv.org/pdf/1901.03954.pdf) (brave new task) | [github](https://github.com/woshiyyya/Auto-Retoucher-pytorch) (not able to reproduce results based on code | None
+| Spatial Fusion GAN for Image Synthesis | _14 Dec 2018_ | [arxiv](https://arxiv.org/pdf/1812.05840.pdf) (needs revision, interesting approach however) | [github](https://github.com/fnzhan/SF-GAN) (currently, no code available) | None
+| ST-GAN | _5 mar 2018_ | [arxiv](https://arxiv.org/pdf/1803.01837) | [github](https://github.com/chenhsuanlin/spatial-transformer-GAN)  | None
+| Deep Image Harmonization | _28 feb 2017_ | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tsai_Deep_Image_Harmonization_CVPR_2017_paper.pdf) | [github](https://github.com/wasidennis/DeepHarmonization) (only code for inference) | None
+
 ## Audio
 ### Audio Synthesis
 
