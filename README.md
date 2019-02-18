@@ -349,8 +349,7 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 |---|---|---|---|
 | Auto-Retoucher(ART) — A Framework for Background Replacement and Foreground Adjustment | _13 jan 2019_ | [arxiv](https://arxiv.org/pdf/1901.03954.pdf) (brave new task) | [github](https://github.com/woshiyyya/Auto-Retoucher-pytorch) (not able to reproduce results based on code | 
 | Spatial Fusion GAN for Image Synthesis | _14 Dec 2018_ | [arxiv](https://arxiv.org/pdf/1812.05840.pdf) (needs revision, interesting approach however) | [github](https://github.com/fnzhan/SF-GAN) (currently, no code available) | 
-| Compositional GAN:
-Learning Conditional Image Composition | _23 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1807.07560.pdf) (with respect to spatial orientation) | [github](https://github.com/azadis/CompositionalGAN) (currently, no code available) | 
+| Compositional GAN: Learning Conditional Image Composition | _23 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1807.07560.pdf) (with respect to spatial orientation) | [github](https://github.com/azadis/CompositionalGAN) (currently, no code available) | 
 | ST-GAN | _5 mar 2018_ | [arxiv](https://arxiv.org/pdf/1803.01837) (with respect to spatial orientation) | [github](https://github.com/chenhsuanlin/spatial-transformer-GAN)  | 
 | Deep Painterly Harmoization | _26 Jun 2018_ | [paper](https://arxiv.org/pdf/1804.03189.pdf) | [github](https://github.com/luanfujun/deep-painterly-harmonization) | 
 | Deep Image Harmonization | _28 feb 2017_ | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tsai_Deep_Image_Harmonization_CVPR_2017_paper.pdf) | [github](https://github.com/wasidennis/DeepHarmonization) (only code for inference) | 
