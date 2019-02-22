@@ -192,7 +192,8 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| End-to-end representation learning for Correlation Filter based tracking | _20 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06036) | [github](https://github.com/bertinetto/cfnet) | _None_ | 
+| End-to-end representation learning for Correlation Filter based tracking | _20 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.06036) | [github](https://github.com/bertinetto/cfnet) | _None_ |
+| Detection, localisation and tracking of pallets using machine learning techniques and 2D range data | _29 May 2018_ | [arxiv](https://arxiv.org/pdf/1803.11254.pdf) | [github](https://github.com/EmaroLab/PDT) | _None_ |
 ### Visual Question Answering
 
 |Title|Date|Paper|Code|Labels|
