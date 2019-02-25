@@ -353,18 +353,19 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | ST-GAN | _5 mar 2018_ | [arxiv](https://arxiv.org/pdf/1803.01837) (with respect to spatial orientation) | [github](https://github.com/chenhsuanlin/spatial-transformer-GAN)  | 
 | Deep Painterly Harmonization | _26 Jun 2018_ | [paper](https://arxiv.org/pdf/1804.03189.pdf) | [github](https://github.com/luanfujun/deep-painterly-harmonization) | 
 | Deep Image Harmonization | _28 feb 2017_ | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tsai_Deep_Image_Harmonization_CVPR_2017_paper.pdf) | [github](https://github.com/wasidennis/DeepHarmonization) (only code for inference) | 
+| Understanding and Improving the Realism of Image Composites | _1 Jul 2012_ | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.682.3987&rep=rep1&type=pdf) | |
 
 ## Audio
 ### Audio Synthesis
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) |  | _None_ | 
-| A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | _None_ | 
-| Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | _None_ | 
-| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | [github](https://github.com/Kyubyong/tacotron) | _None_ | 
-| Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) |  | _None_ | 
-| WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) | _None_ | 
+| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) |  | 
+| A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) |  | 
+| Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | [github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) | 
+| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | [github](https://github.com/Kyubyong/tacotron) | 
+| Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) |  | 
+| WaveNet: A Generative Model for Raw Audio | _12 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | [github](https://github.com/ibab/tensorflow-wavenet) |  
 ## Other
 ### Unclassified
 
