@@ -180,14 +180,15 @@ Papers about deep learning ordered by task, date. Current state-of-the-art paper
 | Playing Atari with Deep Reinforcement Learning | _19 dec 2013_ | [arxiv](https://arxiv.org/pdf/1312.5602) |  | ![deep-q-learning](https://img.shields.io/badge/label-Deep--Q--Learning-green.svg) | 
 ### Style Transfer
 
-|Title|Date|Paper|Code|Labels|
-|---|---|---|---|---|
-| Deep Photo Style Transfer | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  | _None_ | 
-| Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06868) | [github](https://github.com/xunhuang1995/AdaIN-style) | _None_ | 
-| A Learned Representation For Artistic Style | _24 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.07629) |  | _None_ | 
-| Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | _None_ | 
-| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | _None_ | 
-| A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) | _None_ | 
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| The Contextual Loss for Image Transformation with Non-Aligned Data | _18 jul 2018_ | [arxiv](https://arxiv.org/pdf/1803.02077.pdf) | [github](https://github.com/roimehrez/contextualLoss) |
+| Deep Photo Style Transfer | _22 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511) |  |
+| Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization | _20 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.06868) | [github](https://github.com/xunhuang1995/AdaIN-style) | 
+| A Learned Representation For Artistic Style | _24 okt 2016_ | [arxiv](https://arxiv.org/pdf/1610.07629) |  | 
+| Instance Normalization: The Missing Ingredient for Fast Stylization | _27 jul 2016_ | [arxiv](https://arxiv.org/pdf/1607.08022) |  | 
+| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155) | [github](http://github.com/jcjohnson/fast-neural-style) | 
+| A Neural Algorithm of Artistic Style | _26 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576) | [github](https://github.com/lengstrom/fast-style-transfer/) |  
 ### Object Tracking
 
 |Title|Date|Paper|Code|Labels|
