@@ -60,6 +60,9 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	3.16. [Face Recognition](#face-recognition)
 	
 	3.17. [Image Composition](#image-composition)
+	
+	3.18. [Scene Graph Parsing](#scene-graph-parsing)
+
 
 4. [Audio](#audio)
 
@@ -348,13 +351,20 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Auto-Retoucher(ART) — A Framework for Background Replacement and Foreground Adjustment | _13 jan 2019_ | [arxiv](https://arxiv.org/pdf/1901.03954.pdf) (brave new task) | [github](https://github.com/woshiyyya/Auto-Retoucher-pytorch) (not able to reproduce results based on code | 
+| Auto-Retoucher(ART) — A Framework for Background Replacement and Foreground Adjustment | _13 jan 2019_ | [arxiv](https://arxiv.org/pdf/1901.03954.pdf) (brave new task) | [github](https://github.com/woshiyyya/Auto-Retoucher-pytorch) (not able to reproduce results based on code) | 
 | Spatial Fusion GAN for Image Synthesis | _14 Dec 2018_ | [arxiv](https://arxiv.org/pdf/1812.05840.pdf) (needs revision, interesting approach however) | [github](https://github.com/fnzhan/SF-GAN) (currently, no code available) | 
 | Compositional GAN: Learning Conditional Image Composition | _23 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1807.07560.pdf) (with respect to spatial orientation) | [github](https://github.com/azadis/CompositionalGAN) (currently, no code available) | 
 | ST-GAN | _5 mar 2018_ | [arxiv](https://arxiv.org/pdf/1803.01837) (with respect to spatial orientation) | [github](https://github.com/chenhsuanlin/spatial-transformer-GAN)  | 
 | Deep Painterly Harmonization | _26 Jun 2018_ | [paper](https://arxiv.org/pdf/1804.03189.pdf) | [github](https://github.com/luanfujun/deep-painterly-harmonization) | 
 | Deep Image Harmonization | _28 feb 2017_ | [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tsai_Deep_Image_Harmonization_CVPR_2017_paper.pdf) | [github](https://github.com/wasidennis/DeepHarmonization) (only code for inference) | 
 | Understanding and Improving the Realism of Image Composites | _1 Jul 2012_ | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.682.3987&rep=rep1&type=pdf) | |
+
+
+### Scene Graph Parsing
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Neural Motifs: Scene Graph Parsing with Global Context | _29 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1711.06640.pdf) | [github](https://github.com/rowanz/neural-motifs) | 
 
 ## Audio
 ### Audio Synthesis
