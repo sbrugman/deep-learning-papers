@@ -161,8 +161,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| NeuroSAT: Learning a SAT Solver from Single-Bit Supervision
- | _5 jan 2019_ | [arxiv](https://arxiv.org/pdf/1802.03685.pdf) | [github](https://github.com/dselsam/neurosat) |
+| NeuroSAT: Learning a SAT Solver from Single-Bit Supervision | _5 jan 2019_ | [arxiv](https://arxiv.org/pdf/1802.03685.pdf) | [github](https://github.com/dselsam/neurosat) |
 | Tracking the World State with Recurrent Entity Networks | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03969) |  |
 
 ## Visual
