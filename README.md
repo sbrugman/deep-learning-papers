@@ -62,6 +62,8 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	3.17. [Image Composition](#image-composition)
 	
 	3.18. [Scene Graph Parsing](#scene-graph-parsing)
+	
+	3.19. [Video Deblurring](#video-deblurring)
 
 
 4. [Audio](#audio)
@@ -367,6 +369,15 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 |Title|Date|Paper|Code|
 |---|---|---|---|
 | Neural Motifs: Scene Graph Parsing with Global Context | _29 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1711.06640.pdf) | [github](https://github.com/rowanz/neural-motifs) | 
+
+
+### Video Deblurring
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Spatio-Temporal Filter Adaptive Network for Video Deblurring | _28 Apr 2019_ | [arxiv](https://arxiv.org/pdf/1904.12257.pdf) | [github](https://shangchenzhou.com/projects/stfan/) (to appear) | 
+
+
 
 ## Audio
 ### Audio Synthesis
