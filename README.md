@@ -64,6 +64,8 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	3.18. [Scene Graph Parsing](#scene-graph-parsing)
 	
 	3.19. [Video Deblurring](#video-deblurring)
+	
+	3.20. [Depth Perception](#depth-perception)
 
 
 4. [Audio](#audio)
@@ -252,6 +254,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| YOLOv3: An Incremental Improvement | _8 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.02767.pdf) | [github]( https://github.com/pjreddie/darknet), [github reimplementation](https://github.com/ultralytics/yolov3) | 
 | Focal Loss for Dense Object Detection | _7 aug 2017_ | [arxiv](https://arxiv.org/pdf/1708.02002) |  | 
 | Introspective Classifier Learning: Empower Generatively | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07816) |  | 
 | Learning Chained Deep Features and Classifiers for Cascade in Object Detection | _23 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07054) |  | 
@@ -376,6 +379,13 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 |Title|Date|Paper|Code|
 |---|---|---|---|
 | Spatio-Temporal Filter Adaptive Network for Video Deblurring | _28 Apr 2019_ | [arxiv](https://arxiv.org/pdf/1904.12257.pdf) | [github](https://shangchenzhou.com/projects/stfan/) (to appear) | 
+
+### Depth Perception
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Learning Depth with Convolutional Spatial Propagation Network | _13 Okt 2018_ | [arxiv](https://arxiv.org/pdf/1810.02695.pdf) | [github](https://github.com/XinJCheng/CSPN) |
+| Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches | _18 May 2016_ | [arxiv](https://arxiv.org/pdf/1510.05970.pdf) | [github](https://github.com/jzbontar/mc-cnn) | 
 
 
 
