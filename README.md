@@ -332,6 +332,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| Scene Text Synthesis for Efficient and Effective Deep Network Training | _26 jan 2019_ | [arxiv](https://arxiv.org/pdf/1901.09193.pdf) | |
 | A Neural Representation of Sketch Drawings | _11 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | 
 | BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | [github](https://github.com/carpedm20/BEGAN-tensorflow) | 
 | Improved Training of Wasserstein GANs | _31 mar 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | 
