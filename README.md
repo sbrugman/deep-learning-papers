@@ -67,6 +67,8 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	
 	3.20. [Depth Perception](#depth-perception)
 
+	3.21. [3D Reconstruction](#3d-reconstruction)
+
 
 4. [Audio](#audio)
 
@@ -388,7 +390,11 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 | Learning Depth with Convolutional Spatial Propagation Network | _13 Okt 2018_ | [arxiv](https://arxiv.org/pdf/1810.02695.pdf) | [github](https://github.com/XinJCheng/CSPN) |
 | Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches | _18 May 2016_ | [arxiv](https://arxiv.org/pdf/1510.05970.pdf) | [github](https://github.com/jzbontar/mc-cnn) | 
 
+### 3D Reconstruction
 
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Cerberus: A Multi-headed Derenderer | _28 May 2019_ | [arxiv](https://arxiv.org/pdf/1905.11940.pdf) |  |
 
 ## Audio
 ### Audio Synthesis
