@@ -24,6 +24,8 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	2.7. [Chatbots](#chatbots)
 
 	2.8. [Reasoning](#reasoning)
+	
+	2.9. [Language Representation](#language-representation)
 
 3. [Visual](#visual)
 
@@ -68,6 +70,8 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 	3.20. [Depth Perception](#depth-perception)
 
 	3.21. [3D Reconstruction](#3d-reconstruction)
+	
+	3.22. [Vision Representation](#vision-representation)
 
 
 4. [Audio](#audio)
@@ -169,6 +173,17 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 |---|---|---|---|
 | NeuroSAT: Learning a SAT Solver from Single-Bit Supervision | _5 jan 2019_ | [arxiv](https://arxiv.org/pdf/1802.03685.pdf) | [github](https://github.com/dselsam/neurosat) |
 | Tracking the World State with Recurrent Entity Networks | _12 dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.03969) |  |
+
+### Language Representation
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Efficient Estimation of Word Representations in Vector Space | _7 sep 2013_ | [arxiv](https://arxiv.org/pdf/1301.3781.pdf) |  |
+| Distributed Representations of Words and Phrases and their Compositionality | _16 okt 2013_ | [arxiv](https://arxiv.org/pdf/1310.4546.pdf) | 
+| ELMO: Deep contextualized word representations | _22 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1802.05365.pdf) | |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | _24 may 2019_ | [arxiv](https://arxiv.org/pdf/1810.04805.pdf) | [github](https://github.com/google-research/bert) |
+| XLNet: Generalized Autoregressive Pretraining for Language Understanding | _19 jun 2019_ | [arxiv](https://arxiv.org/pdf/1906.08237.pdf) | [github](https://github.com/zihangdai/xlnet) |
+| RoBERTa: A Robustly Optimized BERT Pretraining Approach | _26 jul 2019_ | [arxiv](https://arxiv.org/pdf/1907.11692.pdf) | [github](https://github.com/pytorch/fairseq/tree/master/examples/roberta) |
 
 ## Visual
 ### Gaming
@@ -395,6 +410,16 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 |Title|Date|Paper|Code|
 |---|---|---|---|
 | Cerberus: A Multi-headed Derenderer | _28 May 2019_ | [arxiv](https://arxiv.org/pdf/1905.11940.pdf) |  |
+
+
+### Vision Representation
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| VisualBERT: A Simple and Performant Baseline for Vision and Language | _9 aug 2019_ | [arxiv](https://arxiv.org/pdf/1908.03557.pdf) | |
+| Expected to appear: some paper learning an unsupervised vision representation that beats SOTA on a large number of tasks | <Before the end of 2019> | | | 
+
+
 
 ## Audio
 ### Audio Synthesis
