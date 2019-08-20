@@ -229,6 +229,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | _22 aug 2018_ | [paper](https://arxiv.org/pdf/1802.02611.pdf) [cvpr](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf) | [github](https://github.com/tensorflow/models/tree/master/research/deeplab) |
 | Dilated Residual Networks | _22 jul 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/dilated-residual-networks.pdf) |  | 
 | SfM-Net: Learning of Structure and Motion from Video | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804) |  | 
 | Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network | _28 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.09695) |  | 
@@ -244,6 +245,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | _18 may 2015_ | [arxiv](https://arxiv.org/pdf/1505.04597) |  | 
 | Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs | _22 dec 2014_ | [arxiv](https://arxiv.org/pdf/1412.7062) |  | 
 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 jul 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736) |  | 
+
 ### Text (in the Wild) Recognition
 
 |Title|Date|Paper|Code|
