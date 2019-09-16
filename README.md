@@ -273,6 +273,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| Cascade R-CNN: High Quality Object Detection and Instance Segmentation | _24 Jun 2019_ | [arxiv](https://arxiv.org/pdf/1906.09756.pdf) | [github](https://github.com/zhaoweicai/cascade-rcnn) |
 | YOLOv3: An Incremental Improvement | _8 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.02767.pdf) | [github]( https://github.com/pjreddie/darknet), [github reimplementation](https://github.com/ultralytics/yolov3) | 
 | Focal Loss for Dense Object Detection | _7 aug 2017_ | [arxiv](https://arxiv.org/pdf/1708.02002) |  | 
 | Introspective Classifier Learning: Empower Generatively | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07816) |  | 
