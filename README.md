@@ -229,6 +229,7 @@ Papers about deep learning ordered by task, date. For each paper there is a perm
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| PointRend: Image Segmentation as Rendering | _17 dec 2019_ | [arxiv](https://arxiv.org/pdf/1912.08193.pdf) | |
 | Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | _22 aug 2018_ | [paper](https://arxiv.org/pdf/1802.02611.pdf) [cvpr](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf) | [github](https://github.com/tensorflow/models/tree/master/research/deeplab) |
 | Dilated Residual Networks | _22 jul 2017_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/dilated-residual-networks.pdf) |  | 
 | SfM-Net: Learning of Structure and Motion from Video | _25 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804) |  | 
